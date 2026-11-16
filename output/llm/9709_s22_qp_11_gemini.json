@@ -1,0 +1,248 @@
+{
+  "source_file": "9709_s22_qp_11.pdf",
+  "subject_code": "9709",
+  "component": "11",
+  "questions": [
+    {
+      "number": "1",
+      "introductory_text": "",
+      "text": "",
+      "pdf_page": 2,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Express x^2 - 8x + 11 in the form (x + p)^2 + q where p and q are constants.",
+          "marks": 2,
+          "pdf_page": 2,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Hence find the exact solutions of the equation x^2 - 8x + 11 = 1.",
+          "marks": 2,
+          "pdf_page": 2,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "introductory_text": "The thirteenth term of an arithmetic progression is 12 and the sum of the first 30 terms is -15.",
+      "text": "Find the sum of the first 50 terms of the progression.",
+      "pdf_page": 3,
+      "options": [],
+      "parts": []
+    },
+    {
+      "number": "3",
+      "introductory_text": "The coefficient of x^4 in the expansion of (2x^2 + k/x)^5 is a. The coefficient of x^2 in the expansion of (2kx - 1)^4 is b.",
+      "text": "",
+      "pdf_page": 4,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Find a and b in terms of the constant k.",
+          "marks": 3,
+          "pdf_page": 4,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Given that a + b = 216, find the possible values of k.",
+          "marks": 3,
+          "pdf_page": 5,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "introductory_text": "",
+      "text": "",
+      "pdf_page": 6,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Prove the identity (sin^3 θ)/(sin θ - 1) - (sin^2 θ)/(1 + sin θ) ≡ -tan^2 θ(1 + sin^2 θ).",
+          "marks": 4,
+          "pdf_page": 6,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Hence solve the equation (sin^3 θ)/(sin θ - 1) - (sin^2 θ)/(1 + sin θ) = tan^2 θ(1 - sin^2 θ) for 0 < θ < 2π.",
+          "marks": 2,
+          "pdf_page": 7,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "introductory_text": "The diagram shows a sector ABC of a circle with centre A and radius r. The line BD is perpendicular to AC. Angle CAB is θ radians.",
+      "text": "",
+      "pdf_page": 8,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Given that θ = 1/6 π, find the exact area of BCD in terms of r.",
+          "marks": 3,
+          "pdf_page": 8,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Given instead that the length of BD is (√3)/2 r, find the exact perimeter of BCD in terms of r.",
+          "marks": 4,
+          "pdf_page": 9,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "introductory_text": "The function f is defined as follows: f(x) = (x^2 - 4)/(x^2 + 4) for x > 2.",
+      "text": "",
+      "pdf_page": 10,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Find an expression for f^-1(x).",
+          "marks": 3,
+          "pdf_page": 10,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Show that 1 - 8/(x^2 + 4) can be expressed as (x^2 - 4)/(x^2 + 4) and hence state the range of f.",
+          "marks": 4,
+          "pdf_page": 11,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "Explain why the composite function ff cannot be formed.",
+          "marks": 1,
+          "pdf_page": 11,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "introductory_text": "The diagram shows the curve with equation y = (3x - 2)^(1/2) and the line y = 1/2 x + 1. The curve and the line intersect at points A and B.",
+      "text": "",
+      "pdf_page": 12,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Find the coordinates of A and B.",
+          "marks": 4,
+          "pdf_page": 12,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Hence find the area of the region enclosed between the curve and the line.",
+          "marks": 5,
+          "pdf_page": 13,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "introductory_text": "",
+      "text": "",
+      "pdf_page": 14,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "The curve y = sin x is transformed to the curve y = 4 sin(1/2 x - 30°). Describe fully a sequence of transformations that have been combined, making clear the order in which the transformations are applied.",
+          "marks": 5,
+          "pdf_page": 14,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Find the exact solutions of the equation 4 sin(1/2 x - 30°) = 2√2 for 0° ≤ x ≤ 360°.",
+          "marks": 3,
+          "pdf_page": 15,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "introductory_text": "The equation of a circle is x^2 + y^2 + 6x - 2y - 26 = 0.",
+      "text": "",
+      "pdf_page": 16,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Find the coordinates of the centre of the circle and the radius. Hence find the coordinates of the lowest point on the circle.",
+          "marks": 4,
+          "pdf_page": 16,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Find the set of values of the constant k for which the line with equation y = kx - 5 intersects the circle at two distinct points.",
+          "marks": 6,
+          "pdf_page": 17,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "introductory_text": "The equation of a curve is such that d^2y/dx^2 = 6x^2 - 4/x^3. The curve has a stationary point at (-1, 9/2).",
+      "text": "",
+      "pdf_page": 18,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Determine the nature of the stationary point at (-1, 9/2).",
+          "marks": 1,
+          "pdf_page": 18,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Find the equation of the curve.",
+          "marks": 5,
+          "pdf_page": 18,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "Show that the curve has no other stationary points.",
+          "marks": 3,
+          "pdf_page": 19,
+          "subparts": []
+        },
+        {
+          "label": "(d)",
+          "text": "A point A is moving along the curve and the y-coordinate of A is increasing at a rate of 5 units per second. Find the rate of increase of the x-coordinate of A at the point where x = 1.",
+          "marks": 3,
+          "pdf_page": 19,
+          "subparts": []
+        }
+      ]
+    }
+  ],
+  "extraction_notes": [
+    "The OCR for question 4(a) and 4(b) contained some character recognition errors for symbols (e.g., '1' instead of 'θ'), which were corrected based on standard mathematical notation for this type of problem.",
+    "The OCR for question 5(b) contained character recognition errors for the expression '(√3)/2 r', which were corrected.",
+    "The OCR for question 8(a) and 8(b) contained character recognition errors for the degree symbol '°', which were corrected."
+  ]
+}

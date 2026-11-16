@@ -1,0 +1,162 @@
+{
+  "source_file": "9709_s22_qp_41.pdf",
+  "subject_code": "9709",
+  "component": "41",
+  "questions": [
+    {
+      "number": "1",
+      "introductory_text": "A car starts from rest and moves in a straight line with constant acceleration for a distance of 200 m, reaching a speed of 25 m s−1. The car then travels at this speed for 400 m, before decelerating uniformly to rest over a period of 5 s.",
+      "text": "",
+      "pdf_page": 3,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Find the time for which the car is accelerating.",
+          "marks": 2,
+          "pdf_page": 3,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Sketch the velocity–time graph for the motion of the car, showing the key points.",
+          "marks": 2,
+          "pdf_page": 3,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "Find the average speed of the car during its motion.",
+          "marks": 2,
+          "pdf_page": 3,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "introductory_text": "Two particles P and Q, of masses 0.5 kg and 0.3 kg respectively, are connected by a light inextensible string. The string is taut and P is vertically above Q. A force of magnitude 10 N is applied to P vertically upwards.",
+      "text": "Find the acceleration of the particles and the tension in the string connecting them.",
+      "pdf_page": 4,
+      "options": [],
+      "parts": [
+        {
+          "label": "",
+          "text": "Find the acceleration of the particles and the tension in the string connecting them.",
+          "marks": 5,
+          "pdf_page": 4,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "introductory_text": "A crate of mass 300 kg is at rest on rough horizontal ground. The coefficient of friction between the crate and the ground is 0.5. A force of magnitude X N, acting at an angle α above the horizontal, is applied to the crate, where sin α = 0.28.",
+      "text": "Find the greatest value of X for which the crate remains at rest.",
+      "pdf_page": 5,
+      "options": [],
+      "parts": [
+        {
+          "label": "",
+          "text": "Find the greatest value of X for which the crate remains at rest.",
+          "marks": 5,
+          "pdf_page": 5,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "introductory_text": "Three coplanar forces of magnitudes 20 N, 100 N and F N act at a point. The directions of these forces are shown in the diagram.",
+      "text": "Given that the three forces are in equilibrium, find F and α.",
+      "pdf_page": 6,
+      "options": [],
+      "parts": [
+        {
+          "label": "",
+          "text": "Given that the three forces are in equilibrium, find F and α.",
+          "marks": 6,
+          "pdf_page": 6,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "introductory_text": "Two racing cars A and B are at rest alongside each other at a point O on a straight horizontal test track. The mass of A is 1200 kg. The engine of A produces a constant driving force of 4500 N. When A arrives at a point P its speed is 25 m s−1. The distance OP is d m. The work done against the resistance force experienced by A between O and P is 75 000 J.",
+      "text": "",
+      "pdf_page": 8,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Show that d = 100.",
+          "marks": 3,
+          "pdf_page": 8,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Find the mass of B.",
+          "marks": 3,
+          "pdf_page": 9,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "Find the steady speed which B can maintain when its engine is working at the same rate as it is at P.",
+          "marks": 3,
+          "pdf_page": 9,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "introductory_text": "A particle starts from a point O and moves in a straight line. The velocity v m s−1 of the particle at time t s after leaving O is given by v = k(3t^2 − 2t^3), where k is a constant.",
+      "text": "",
+      "pdf_page": 10,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Verify that the particle returns to O when t = 2.",
+          "marks": 4,
+          "pdf_page": 10,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "It is given that the acceleration of the particle is −13.5 m s−2 for the positive value of t at which v = 0. Find k and hence find the total distance travelled in the first two seconds of motion.",
+          "marks": 6,
+          "pdf_page": 11,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "introductory_text": "Two particles A and B, of masses 0.4 kg and 0.2 kg respectively, are moving down the same line of greatest slope of a smooth plane. The plane is inclined at 30° to the horizontal, and A is higher up the plane than B. When the particles collide, the speeds of A and B are 3 m s−1 and 2 m s−1 respectively. In the collision between the particles, the speed of A is reduced to 2.5 m s−1.",
+      "text": "",
+      "pdf_page": 12,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Find the speed of B immediately after the collision.",
+          "marks": 2,
+          "pdf_page": 12,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "After the collision, when B has moved 1.6 m down the plane from the point of collision, it hits a barrier and returns back up the same line of greatest slope. B hits the barrier 0.4 s after the collision, and when it hits the barrier, its speed is reduced by 90%. The two particles collide again 0.44 s after their previous collision, and they then coalesce on impact. Show that the speed of B immediately after it hits the barrier is 0.5 m s−1. Hence find the speed of the combined particle immediately after the second collision between A and B.",
+          "marks": 7,
+          "pdf_page": 12,
+          "subparts": []
+        }
+      ]
+    }
+  ],
+  "extraction_notes": []
+}

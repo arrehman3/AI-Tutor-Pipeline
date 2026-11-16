@@ -1,0 +1,642 @@
+{
+  "paper_id": "paper_9701_s22_qp_41",
+  "source_file": "9701_s22_qp_41.pdf",
+  "subject_code": "9701",
+  "component": "41",
+  "session_code": "s22",
+  "document_type": "qp",
+  "questions": [
+    {
+      "question_id": "paper_9701_s22_qp_41_q1",
+      "number": "1",
+      "introductory_text": "",
+      "pdf_page": 2,
+      "parts": [
+        {
+          "part_id": "paper_9701_s22_qp_41_q1_a",
+          "label": "a",
+          "text": "The solubility of the Group 2 sulfates decreases down the group. Explain this trend.",
+          "marks": 3,
+          "pdf_page": 2,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q1_b",
+          "label": "b",
+          "text": "Describe what is observed when magnesium and barium are reacted separately with an excess of dilute sulfuric acid. magnesium ................................................................................................................................ barium ........................................................................................................................................",
+          "marks": 1,
+          "pdf_page": 2,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q1_c",
+          "label": "c",
+          "text": "The solubility product, Ksp, of BaSO4 is 1.08 × 10–10mol2 dm–6 at 298K. Calculate the solubility of BaSO4 in g per 100cm3 of solution.",
+          "marks": 2,
+          "pdf_page": 2,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q1_d",
+          "label": "d",
+          "text": "",
+          "marks": null,
+          "pdf_page": 3,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q1_d_i",
+              "label": "i",
+              "text": "The equation for the formation of a gaseous sulfate ion is shown. S(s) + 2O2(g) + 2e– → SO4 2–(g) ∆H = ∆Hf of SO4 2–(g). Calculate the standard enthalpy change of formation, ∆Hf, of SO4 2–(g). It may be helpful to draw a labelled energy cycle. Use relevant data from Table 1.1 in your calculations.",
+              "marks": 3,
+              "pdf_page": 3
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q1_d_ii",
+              "label": "ii",
+              "text": "Suggest how the lattice energy of BaSO4(s) differs from the lattice energy of Cs2SO4(s). Explain your answer.",
+              "marks": 2,
+              "pdf_page": 4
+            }
+          ]
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q1_e",
+          "label": "e",
+          "text": "The reaction of solid hydrated barium hydroxide, Ba(OH)2•8H2O, with ammonium salts is endothermic.",
+          "marks": null,
+          "pdf_page": 4,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q1_e_i",
+              "label": "i",
+              "text": "Calculate the minimum temperature at which the reaction of Ba(OH)2•8H2O with NH4NO3 becomes feasible. Show all your working.",
+              "marks": 2,
+              "pdf_page": 4
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q1_e_ii",
+              "label": "ii",
+              "text": "Barium hydroxide reacts readily with ammonium chloride on mixing at room temperature. Ba(OH)2•8H2O(s) + 2NH4Cl(s) → 2NH3(g) + BaCl 2•2H2O(s) + 8H2O(l) ∆Hr = +133kJmol–1. Some relevant standard entropies are given in Table 1.2. Calculate the standard Gibbs free energy change, ∆Go, for this reaction at 25°C.",
+              "marks": 3,
+              "pdf_page": 4
+            }
+          ]
+        }
+      ],
+      "topic_ids": []
+    },
+    {
+      "question_id": "paper_9701_s22_qp_41_q2",
+      "number": "2",
+      "introductory_text": "",
+      "pdf_page": 5,
+      "parts": [
+        {
+          "part_id": "paper_9701_s22_qp_41_q2_a",
+          "label": "a",
+          "text": "Define transition element.",
+          "marks": 1,
+          "pdf_page": 5,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q2_b",
+          "label": "b",
+          "text": "Sketch the shape of a 3dz2 orbital.",
+          "marks": 1,
+          "pdf_page": 5,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q2_c",
+          "label": "c",
+          "text": "Manganese(IV) oxide, MnO2, acts as a heterogeneous catalyst in the decomposition of hydrogen peroxide, H2O2.",
+          "marks": null,
+          "pdf_page": 5,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q2_c_i",
+              "label": "i",
+              "text": "Explain what is meant by a heterogeneous catalyst.",
+              "marks": 1,
+              "pdf_page": 5
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q2_c_ii",
+              "label": "ii",
+              "text": "Describe the mode of action of a heterogeneous catalyst in a reaction.",
+              "marks": 3,
+              "pdf_page": 5
+            }
+          ]
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q2_d",
+          "label": "d",
+          "text": "Manganese(VII) oxide, Mn2O7, can be made by treatment of KMnO4 with concentrated sulfuric acid (reaction 1). Mn2O7 readily decomposes at room temperature to form manganese(IV) oxide and a colourless diatomic gas (reaction 2). Construct equations for both the reactions described.",
+          "marks": 2,
+          "pdf_page": 5,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q2_e",
+          "label": "e",
+          "text": "Aqueous manganese(II) ions show similar chemical properties to aqueous copper(II) ions when reacted separately with NaOH(aq) and with concentrated HCl.",
+          "marks": null,
+          "pdf_page": 6,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q2_e_i",
+              "label": "i",
+              "text": "Write the ionic equation, and state the type of reaction, for the reaction of [Mn(H2O)6] 2+ with NaOH(aq).",
+              "marks": 2,
+              "pdf_page": 6
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q2_e_ii",
+              "label": "ii",
+              "text": "Write the ionic equation, and state the type of reaction, for the reaction of [Mn(H2O)6] 2+ with concentrated HCl.",
+              "marks": 2,
+              "pdf_page": 6
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q2_e_iii",
+              "label": "iii",
+              "text": "Table 2.1 lists relevant electrode potentials for some electrode reactions. Suggest the formula of the manganese species formed when Mn2+(aq) reacts with Cl 2. State the type of reaction.",
+              "marks": 1,
+              "pdf_page": 6
+            }
+          ]
+        }
+      ],
+      "topic_ids": []
+    },
+    {
+      "question_id": "paper_9701_s22_qp_41_q3",
+      "number": "3",
+      "introductory_text": "",
+      "pdf_page": 7,
+      "parts": [
+        {
+          "part_id": "paper_9701_s22_qp_41_q3_a",
+          "label": "a",
+          "text": "The rate of reaction between 2-chloro-2-methylpropane, (CH3)3CCl, and methanol is investigated. When a large excess of methanol is used, the overall reaction is first order. (CH3)3CCl + CH3OH → (CH3)3COCH3 + HCl. Fig. 3.1 shows the results obtained.",
+          "marks": null,
+          "pdf_page": 7,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q3_a_i",
+              "label": "i",
+              "text": "Use the graph to determine the rate of reaction at 40s. Show all your working.",
+              "marks": 1,
+              "pdf_page": 7
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q3_a_ii",
+              "label": "ii",
+              "text": "Use the graph to show that the overall reaction is first order. Explain your answer.",
+              "marks": 2,
+              "pdf_page": 7
+            }
+          ]
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q3_b",
+          "label": "b",
+          "text": "In a different reaction, which is also a first order reaction, 75% of the reactant is consumed in 320s. Calculate the rate constant, k, for this reaction. State the units for k.",
+          "marks": 2,
+          "pdf_page": 7,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q3_c",
+          "label": "c",
+          "text": "",
+          "marks": null,
+          "pdf_page": 8,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q3_c_i",
+              "label": "i",
+              "text": "Define standard electrode potential, Eo.",
+              "marks": 1,
+              "pdf_page": 8
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q3_c_ii",
+              "label": "ii",
+              "text": "A salt bridge is used in an electrochemical cell. State the function of the salt bridge. Explain your answer.",
+              "marks": 1,
+              "pdf_page": 8
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q3_c_iii",
+              "label": "iii",
+              "text": "Complete the diagram of the apparatus that can be used to measure the Eo of the Cr2O7 2–(aq), H+(aq)/Cr3+(aq) electrode against the standard hydrogen electrode. Your diagram should be fully labelled to identify all apparatus, substances and conditions.",
+              "marks": 3,
+              "pdf_page": 8
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q3_c_iv",
+              "label": "iv",
+              "text": "The Eo of the Cr2O7 2–(aq), H+(aq)/Cr3+(aq) electrode is +1.33V. Label the negative electrode and the direction of electron flow in the external circuit when the current flows in your diagram in (c)(iii).",
+              "marks": 1,
+              "pdf_page": 8
+            }
+          ]
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q3_d",
+          "label": "d",
+          "text": "Table 3.1 lists relevant electrode potentials for some electrode reactions for use in (d)(i) and (d)(ii).",
+          "marks": null,
+          "pdf_page": 9,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q3_d_i",
+              "label": "i",
+              "text": "Ethanal is oxidised to ethanoic acid in the presence of Cr2O7 2– ions. Construct the ionic equation for the oxidation of ethanal to ethanoic acid using dichromate(VI) in acid conditions. Calculate the Eocell for this reaction.",
+              "marks": 2,
+              "pdf_page": 9
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q3_d_ii",
+              "label": "ii",
+              "text": "In an ethanol-oxygen fuel cell, CH3CH2OH(l) and O2(g) are in contact with two inert electrodes immersed in an acidic solution. The cell reaction for the oxidation of ethanol by oxygen is shown. 2CH3CH2OH + O2 → 2CH3COOH + 2H2O Eocell = +2.01V. Calculate ∆Go, in kJmol–1, for the oxidation of ethanol by oxygen.",
+              "marks": 2,
+              "pdf_page": 9
+            }
+          ]
+        }
+      ],
+      "topic_ids": []
+    },
+    {
+      "question_id": "paper_9701_s22_qp_41_q4",
+      "number": "4",
+      "introductory_text": "",
+      "pdf_page": 10,
+      "parts": [
+        {
+          "part_id": "paper_9701_s22_qp_41_q4_a",
+          "label": "a",
+          "text": "The 3d orbitals in an isolated Fe2+ ion are degenerate. Complete the diagram to show the splitting of the 3d orbital energy levels in an isolated Fe2+ ion and when Fe2+ forms an octahedral complex.",
+          "marks": 2,
+          "pdf_page": 10,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q4_b",
+          "label": "b",
+          "text": "Bipyridine, bipy, is a bidentate ligand.",
+          "marks": null,
+          "pdf_page": 10,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q4_b_i",
+              "label": "i",
+              "text": "Explain what is meant by bidentate ligand.",
+              "marks": 2,
+              "pdf_page": 10
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q4_b_ii",
+              "label": "ii",
+              "text": "The complex [Fe(bipy)3] 2+ exists as two stereoisomers. Complete the three-dimensional diagrams to show the two stereoisomers of [Fe(bipy)3] 2+. State the type of stereoisomerism shown. Use N N to represent bipy in your diagrams.",
+              "marks": 3,
+              "pdf_page": 11
+            }
+          ]
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q4_c",
+          "label": "c",
+          "text": "Standard electrode potentials can be used to compare the stability of different complex ions for a given transition element. Table 4.1 lists electrode potentials for some electrode reactions for Fe3+ /Fe2+ systems. Use relevant data from Table 4.1 to state which iron(III) complex is hardest to reduce. Explain your choice.",
+          "marks": 1,
+          "pdf_page": 11,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q4_d",
+          "label": "d",
+          "text": "The ligand bipyridine consists of two pyridine rings. Pyridine, C5H5N, and benzene, C6H6, have similar planar, cyclic structures. By reference to the hybridisation of the carbon atoms and the nitrogen atom, and orbital overlap, suggest how the σ and π bonds are formed in a pyridine molecule.",
+          "marks": 3,
+          "pdf_page": 12,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q4_e",
+          "label": "e",
+          "text": "Pyridine reacts with Cl 2 in the presence of AlCl 3 as shown in Fig. 4.3. The mechanism of this reaction is similar to that of the chlorination of benzene. AlCl 3 reacts with chlorine to generate an electrophile, Cl +. Complete the diagram to show the mechanism for the reaction of pyridine with Cl +. Include all relevant charges, dipoles, lone pairs of electrons and curly arrows as appropriate.",
+          "marks": 3,
+          "pdf_page": 12,
+          "subparts": []
+        }
+      ],
+      "topic_ids": []
+    },
+    {
+      "question_id": "paper_9701_s22_qp_41_q5",
+      "number": "5",
+      "introductory_text": "",
+      "pdf_page": 13,
+      "parts": [
+        {
+          "part_id": "paper_9701_s22_qp_41_q5_a",
+          "label": "a",
+          "text": "Compare the relative acidities of benzoic acid (C6H5COOH), phenylmethanol (C6H5CH2OH), and phenol (C6H5OH). Explain your reasoning.",
+          "marks": 3,
+          "pdf_page": 13,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q5_b",
+          "label": "b",
+          "text": "A series of nine separate experiments is carried out as shown in Table 5.1. Complete the table by placing a tick (✓) in the relevant box if a reaction occurs. Place a cross (✗) in the box if no reaction occurs.",
+          "marks": 3,
+          "pdf_page": 13,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q5_c",
+          "label": "c",
+          "text": "Benzoyl chloride, C6H5COCl, can be synthesised by the reaction of benzoic acid with either PCl 5 or SOCl 2.",
+          "marks": null,
+          "pdf_page": 13,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q5_c_i",
+              "label": "i",
+              "text": "Complete the equations for these reactions.",
+              "marks": 1,
+              "pdf_page": 13
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q5_c_ii",
+              "label": "ii",
+              "text": "Use your answer to (c)(i) to suggest why it is easier to isolate, in a pure form, the C6H5COCl from reaction 2 compared to reaction 1.",
+              "marks": 1,
+              "pdf_page": 13
+            }
+          ]
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q5_d",
+          "label": "d",
+          "text": "Benzoyl chloride is hydrolysed by water at room temperature to form benzoic acid.",
+          "marks": null,
+          "pdf_page": 14,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q5_d_i",
+              "label": "i",
+              "text": "Complete the diagram to show the mechanism for the reaction between C6H5COCl and H2O. Include charges, dipoles, lone pairs of electrons and curly arrows as appropriate.",
+              "marks": 4,
+              "pdf_page": 14
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q5_d_ii",
+              "label": "ii",
+              "text": "Name the type of mechanism you showed in (d)(i).",
+              "marks": 1,
+              "pdf_page": 14
+            }
+          ]
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q5_e",
+          "label": "e",
+          "text": "Acyl chlorides react with sodium carboxylates to form acid anhydrides as shown in Fig. 5.1. The condensation polymers, polyanhydride and polyester, are formed by similar methods. The repeat unit for a polyanhydride is shown in Fig. 5.2.",
+          "marks": null,
+          "pdf_page": 15,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q5_e_i",
+              "label": "i",
+              "text": "Use Fig. 5.1 and Fig. 5.2 to suggest the structures of the two monomers used to make this polyanhydride.",
+              "marks": 2,
+              "pdf_page": 15
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q5_e_ii",
+              "label": "ii",
+              "text": "Polyanhydrides are biodegradable polymers. Suggest how this polyanhydride can be degraded.",
+              "marks": 1,
+              "pdf_page": 15
+            }
+          ]
+        }
+      ],
+      "topic_ids": []
+    },
+    {
+      "question_id": "paper_9701_s22_qp_41_q6",
+      "number": "6",
+      "introductory_text": "",
+      "pdf_page": 16,
+      "parts": [
+        {
+          "part_id": "paper_9701_s22_qp_41_q6_a",
+          "label": "a",
+          "text": "Describe what is meant by a racemic mixture.",
+          "marks": 1,
+          "pdf_page": 16,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q6_b",
+          "label": "b",
+          "text": "Asparagine is an amino acid that contains a chiral carbon atom and displays stereoisomerism. Separate samples of asparagine are dissolved in CDCl 3 and analysed using carbon‑13 and proton (1H) NMR spectroscopy. Predict the number of peaks seen in the carbon‑13 and proton (1H) NMR spectra of asparagine.",
+          "marks": 1,
+          "pdf_page": 16,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q6_c",
+          "label": "c",
+          "text": "The isoelectric point of asparagine, asn, is at pH 5.4.",
+          "marks": null,
+          "pdf_page": 16,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q6_c_i",
+              "label": "i",
+              "text": "Describe the meaning of the term isoelectric point.",
+              "marks": 1,
+              "pdf_page": 16
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q6_c_ii",
+              "label": "ii",
+              "text": "Draw the structure of asparagine at pH 1.0.",
+              "marks": 1,
+              "pdf_page": 16
+            }
+          ]
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q6_d",
+          "label": "d",
+          "text": "Asparagine can polymerise to form poly(asparagine). Draw the structure of poly(asparagine), showing two repeat units. The peptide linkage should be shown displayed.",
+          "marks": 2,
+          "pdf_page": 17,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q6_e",
+          "label": "e",
+          "text": "The isoelectric point of lysine, lys, is at pH 9.8. A mixture of the dipeptide lys-asn and its two constituent amino acids, asparagine and lysine, is analysed by electrophoresis using a buffer at pH 5.0. The results obtained are shown in Fig. 6.3. Suggest identities for the species responsible for spots E, F and G. Explain your answers.",
+          "marks": 3,
+          "pdf_page": 17,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q6_f",
+          "label": "f",
+          "text": "Thin-layer and gas-liquid chromatography can be used to analyse mixtures of substances. Each type of chromatography makes use of a stationary phase and a mobile phase.",
+          "marks": null,
+          "pdf_page": 18,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q6_f_i",
+              "label": "i",
+              "text": "Complete Table 6.1 with an example of each of these.",
+              "marks": 1,
+              "pdf_page": 18
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q6_f_ii",
+              "label": "ii",
+              "text": "An unknown amino acid is analysed using thin-layer chromatography. Two chromatographs of the unknown amino acid and four reference amino acids, P, Q, R and S, are obtained using two different solvents. Identify the unknown amino acid. Justify your answer.",
+              "marks": 1,
+              "pdf_page": 18
+            }
+          ]
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q6_g",
+          "label": "g",
+          "text": "A mixture containing three organic compounds is analysed by gas chromatography and mass spectrometry. The gas chromatogram is shown. The area underneath each peak is proportional to the mass of the respective compound in the mixture. The concentration of K in the mixture is 5.52 × 10–2 gdm–3. Calculate the concentration, in moldm–3, of compound L in the mixture. [Mr : L, 116]",
+          "marks": 1,
+          "pdf_page": 19,
+          "subparts": []
+        }
+      ],
+      "topic_ids": []
+    },
+    {
+      "question_id": "paper_9701_s22_qp_41_q7",
+      "number": "7",
+      "introductory_text": "",
+      "pdf_page": 20,
+      "parts": [
+        {
+          "part_id": "paper_9701_s22_qp_41_q7_a",
+          "label": "a",
+          "text": "Procaine is used as an anaesthetic in medicine. It can be synthesised from methylbenzene in five steps as shown in Fig. 7.1.",
+          "marks": null,
+          "pdf_page": 20,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q7_a_i",
+              "label": "i",
+              "text": "Name all the functional groups present in procaine.",
+              "marks": 1,
+              "pdf_page": 20
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q7_a_ii",
+              "label": "ii",
+              "text": "A molecule of procaine has 13 carbon atoms. State the number of carbon atoms that are sp, sp2 and sp3 hybridised in procaine.",
+              "marks": 1,
+              "pdf_page": 20
+            }
+          ]
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q7_b",
+          "label": "b",
+          "text": "The proton (1H) NMR spectrum of procaine dissolved in D2O is recorded. Predict the number of peaks observed.",
+          "marks": 1,
+          "pdf_page": 20,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q7_c",
+          "label": "c",
+          "text": "State why procaine can act as a base.",
+          "marks": 1,
+          "pdf_page": 20,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q7_d",
+          "label": "d",
+          "text": "Compound X can be synthesised in two steps from methylbenzene.",
+          "marks": null,
+          "pdf_page": 21,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q7_d_i",
+              "label": "i",
+              "text": "Draw the structure of compound W in the box provided.",
+              "marks": 1,
+              "pdf_page": 21
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q7_d_ii",
+              "label": "ii",
+              "text": "State the reagents and conditions for step 1 and step 2.",
+              "marks": 2,
+              "pdf_page": 21
+            }
+          ]
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q7_e",
+          "label": "e",
+          "text": "Procaine is synthesised in three steps from X. Suggest the reagents and conditions for step 4 and for step 5 in Fig. 7.1.",
+          "marks": 3,
+          "pdf_page": 21,
+          "subparts": []
+        },
+        {
+          "part_id": "paper_9701_s22_qp_41_q7_f",
+          "label": "f",
+          "text": "The partition coefficient of procaine between octan-1-ol and water is 1.77. Octan-1-ol and water are immiscible. A solution containing 0.500g of procaine in 75.0cm3 of water is shaken with 50.0cm3 of octan‑1‑ol. Calculate the mass of procaine that is extracted into the octan‑1‑ol.",
+          "marks": null,
+          "pdf_page": 21,
+          "subparts": [
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q7_f_i",
+              "label": "i",
+              "text": "Explain what is meant by partition coefficient, Kpc.",
+              "marks": 2,
+              "pdf_page": 21
+            },
+            {
+              "subpart_id": "paper_9701_s22_qp_41_q7_f_ii",
+              "label": "ii",
+              "text": "Calculate the mass of procaine that is extracted into the octan‑1‑ol.",
+              "marks": 2,
+              "pdf_page": 21
+            }
+          ]
+        }
+      ],
+      "topic_ids": []
+    }
+  ],
+  "extraction_notes": [
+    "The diagram for 4(a) is a graph with axes, but the labels were partially obscured in the OCR. The structure is clear from the context.",
+    "The diagram for 4(b)(ii) contains placeholders for the stereoisomers.",
+    "The diagram for 4(e) contains placeholders for the mechanism.",
+    "The diagram for 5(d)(i) contains placeholders for the mechanism.",
+    "The diagram for 6(b) contains chemical structures.",
+    "The diagram for 6(e) contains a representation of electrophoresis results.",
+    "The diagram for 6(f)(ii) contains chromatograms.",
+    "The diagram for 6(g) contains a gas chromatogram.",
+    "The diagram for 7(a) contains chemical structures.",
+    "The diagram for 7(d) contains chemical structures."
+  ]
+}

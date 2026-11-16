@@ -1,0 +1,1171 @@
+{
+  "source_file": "9701_s22_qp_11.pdf",
+  "subject_code": "9701",
+  "component": "11",
+  "questions": [
+    {
+      "number": "1",
+      "introductory_text": "",
+      "text": "Which atom has its outermost electron in an orbital of the shape shown, with principal quantum number 3?",
+      "pdf_page": 2,
+      "options": [
+        {
+          "label": "A",
+          "text": "sodium",
+          "pdf_page": 2
+        },
+        {
+          "label": "B",
+          "text": "chlorine",
+          "pdf_page": 2
+        },
+        {
+          "label": "C",
+          "text": "calcium",
+          "pdf_page": 2
+        },
+        {
+          "label": "D",
+          "text": "bromine",
+          "pdf_page": 2
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "2",
+      "introductory_text": "",
+      "text": "Which atom has the same number of electrons as the hydroxide ion, OH–?",
+      "pdf_page": 2,
+      "options": [
+        {
+          "label": "A",
+          "text": "F",
+          "pdf_page": 2
+        },
+        {
+          "label": "B",
+          "text": "Ne",
+          "pdf_page": 2
+        },
+        {
+          "label": "C",
+          "text": "Na",
+          "pdf_page": 2
+        },
+        {
+          "label": "D",
+          "text": "Mg",
+          "pdf_page": 2
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "3",
+      "introductory_text": "",
+      "text": "In separate experiments, 5.0 g samples of each of four s-block metals are added to an excess of water. The gas evolved is collected and its volume measured under the same conditions of temperature and pressure for each sample. Which metal produces the largest volume of gas?",
+      "pdf_page": 2,
+      "options": [
+        {
+          "label": "A",
+          "text": "calcium",
+          "pdf_page": 2
+        },
+        {
+          "label": "B",
+          "text": "potassium",
+          "pdf_page": 2
+        },
+        {
+          "label": "C",
+          "text": "rubidium",
+          "pdf_page": 2
+        },
+        {
+          "label": "D",
+          "text": "strontium",
+          "pdf_page": 2
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "4",
+      "introductory_text": "",
+      "text": "A student reacts 1 mol of copper with concentrated nitric acid to produce 1 mol of copper(II) nitrate, 2 mol of water and substance X. No other product is formed. Substance X does not contain copper or hydrogen. What could be substance X?",
+      "pdf_page": 2,
+      "options": [
+        {
+          "label": "A",
+          "text": "N2",
+          "pdf_page": 2
+        },
+        {
+          "label": "B",
+          "text": "N2O",
+          "pdf_page": 2
+        },
+        {
+          "label": "C",
+          "text": "NO",
+          "pdf_page": 2
+        },
+        {
+          "label": "D",
+          "text": "NO2",
+          "pdf_page": 2
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "5",
+      "introductory_text": "",
+      "text": "In which structure are three atoms bonded together in a straight line?",
+      "pdf_page": 2,
+      "options": [
+        {
+          "label": "A",
+          "text": "poly(ethene), (CH2CH2)n",
+          "pdf_page": 2
+        },
+        {
+          "label": "B",
+          "text": "propane, C3H8",
+          "pdf_page": 2
+        },
+        {
+          "label": "C",
+          "text": "silicon tetrachloride, SiCl4",
+          "pdf_page": 2
+        },
+        {
+          "label": "D",
+          "text": "sulfur hexafluoride, SF6",
+          "pdf_page": 2
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "6",
+      "introductory_text": "",
+      "text": "Which statement about aluminium chloride is correct?",
+      "pdf_page": 3,
+      "options": [
+        {
+          "label": "A",
+          "text": "Aluminium chloride has a much higher melting point than magnesium chloride due to the small size of the aluminium ion.",
+          "pdf_page": 3
+        },
+        {
+          "label": "B",
+          "text": "Anhydrous aluminium chloride reacts vigorously with water to form a solution with a pH greater than 7.",
+          "pdf_page": 3
+        },
+        {
+          "label": "C",
+          "text": "Each Al2Cl6 molecule found in aluminium chloride vapour contains two coordinate bonds.",
+          "pdf_page": 3
+        },
+        {
+          "label": "D",
+          "text": "The bonding between aluminium and chlorine is strongly ionic due to the large difference in electronegativity.",
+          "pdf_page": 3
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "7",
+      "introductory_text": "",
+      "text": "‘Black powder’ is a mixture of potassium nitrate, carbon and sulfur. The mixture reacts as shown. 4KNO3(s) + 7C(s) + S(s) → 3CO2(g) + 3CO(g) + 2N2(g) + K2S(s) + K2CO3(s). A sealed tube containing black powder has a volume of 10.0 cm3. When all of the black powder reacts, the reaction causes a pressure of 2 × 106 Pa and a temperature of 2500 K. The volume of the K2CO3 and K2S produced can be ignored. How many moles of KNO3 are contained in the sealed tube?",
+      "pdf_page": 3,
+      "options": [
+        {
+          "label": "A",
+          "text": "4.81 × 10–4",
+          "pdf_page": 3
+        },
+        {
+          "label": "B",
+          "text": "9.63 × 10–4",
+          "pdf_page": 3
+        },
+        {
+          "label": "C",
+          "text": "1.93 × 10–3",
+          "pdf_page": 3
+        },
+        {
+          "label": "D",
+          "text": "9.63 × 10–1",
+          "pdf_page": 3
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "8",
+      "introductory_text": "",
+      "text": "For which pair is the boiling point of the first compound higher than the boiling point of the second compound?",
+      "pdf_page": 3,
+      "options": [
+        {
+          "label": "A",
+          "text": "CH3CH2OH and CH3CH2SH",
+          "pdf_page": 3
+        },
+        {
+          "label": "B",
+          "text": "CH3CO2CH3 and CH3CH2CO2H",
+          "pdf_page": 3
+        },
+        {
+          "label": "C",
+          "text": "CH3OCH3 and CH3CH2OH",
+          "pdf_page": 3
+        },
+        {
+          "label": "D",
+          "text": "CH3CH2CHO and CH3CH2CO2H",
+          "pdf_page": 3
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "9",
+      "introductory_text": "",
+      "text": "The equation for an enthalpy change is shown. The enthalpy change is Q. 2C(s) + 3H2(g) + 3.5O2(g) → 2CO2(g) + 3H2O(l). What is the correct expression to calculate Q?",
+      "pdf_page": 3,
+      "options": [
+        {
+          "label": "A",
+          "text": "2 × ΔHf°[CO2(g)] – 3 × ΔHf°[H2(g)]",
+          "pdf_page": 3
+        },
+        {
+          "label": "B",
+          "text": "3 × ΔHf°[H2O(g)] + 2 × ΔHf°[CO2(g)]",
+          "pdf_page": 3
+        },
+        {
+          "label": "C",
+          "text": "2 × ΔHf°[CO2(g)] – 3 × ΔHf°[H2(g)]",
+          "pdf_page": 3
+        },
+        {
+          "label": "D",
+          "text": "3 × ΔHf°[H2O(l)] + 2 × ΔHf°[CO2(g)]",
+          "pdf_page": 3
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "10",
+      "introductory_text": "",
+      "text": "A reaction pathway diagram for the reaction of aqueous sodium hydroxide and dilute sulfuric acid is shown. What is the value of the enthalpy change of neutralisation, ΔHneut?",
+      "pdf_page": 4,
+      "options": [
+        {
+          "label": "A",
+          "text": "x",
+          "pdf_page": 4
+        },
+        {
+          "label": "B",
+          "text": "x – y",
+          "pdf_page": 4
+        },
+        {
+          "label": "C",
+          "text": "x/2",
+          "pdf_page": 4
+        },
+        {
+          "label": "D",
+          "text": "(x – y)/2",
+          "pdf_page": 4
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "11",
+      "introductory_text": "",
+      "text": "A student reacts 4 mol of ammonia with oxygen to produce an oxide of nitrogen and water only. Each nitrogen atom increases its oxidation state by 5 in the reaction. How many moles of oxygen gas react with 4 mol of ammonia in this reaction?",
+      "pdf_page": 4,
+      "options": [
+        {
+          "label": "A",
+          "text": "4 mol",
+          "pdf_page": 4
+        },
+        {
+          "label": "B",
+          "text": "5 mol",
+          "pdf_page": 4
+        },
+        {
+          "label": "C",
+          "text": "7 mol",
+          "pdf_page": 4
+        },
+        {
+          "label": "D",
+          "text": "10 mol",
+          "pdf_page": 4
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "12",
+      "introductory_text": "",
+      "text": "In the treatment of domestic water supplies, chlorine is added to water to kill bacteria. Some ClO– ions are formed. What is the change in oxidation number of chlorine when forming the ClO– ion from aqueous chlorine?",
+      "pdf_page": 4,
+      "options": [
+        {
+          "label": "A",
+          "text": "–1",
+          "pdf_page": 4
+        },
+        {
+          "label": "B",
+          "text": "0",
+          "pdf_page": 4
+        },
+        {
+          "label": "C",
+          "text": "+1",
+          "pdf_page": 4
+        },
+        {
+          "label": "D",
+          "text": "+2",
+          "pdf_page": 4
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "13",
+      "introductory_text": "",
+      "text": "Ethanoic acid is mixed with ethanol. The ethanol is contaminated with a small amount of methanol. The following equilibria are established. CH3CO2H(l) + CH3CH2OH(l) ⇌ CH3CO2CH2CH3(l) + H2O(l) Kc = K1. CH3CO2H(l) + CH3OH(l) ⇌ CH3CO2CH3(l) + H2O(l) Kc = K2. Which statement about the equilibrium mixture is correct?",
+      "pdf_page": 5,
+      "options": [
+        {
+          "label": "A",
+          "text": "Only ethyl ethanoate will be formed because there is much more ethanol present than methanol.",
+          "pdf_page": 5
+        },
+        {
+          "label": "B",
+          "text": "In this mixture [CH3CO2CH3] / [CH3CO2CH2CH3] = K2 / K1.",
+          "pdf_page": 5
+        },
+        {
+          "label": "C",
+          "text": "Adding water to the mixture will alter the mole ratio of the two esters.",
+          "pdf_page": 5
+        },
+        {
+          "label": "D",
+          "text": "Adding methyl ethanoate to the mixture will increase the number of moles of ethyl ethanoate.",
+          "pdf_page": 5
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "14",
+      "introductory_text": "",
+      "text": "SO3 is manufactured from SO2 and O2 in the Contact process. The reaction is exothermic. Which row shows the effect on the equilibrium yield obtained in the Contact process of increasing the temperature and of adding a vanadium(V) oxide catalyst?",
+      "pdf_page": 5,
+      "options": [
+        {
+          "label": "A",
+          "text": "equilibrium yield decreases, equilibrium yield increases",
+          "pdf_page": 5
+        },
+        {
+          "label": "B",
+          "text": "equilibrium yield decreases, equilibrium yield unchanged",
+          "pdf_page": 5
+        },
+        {
+          "label": "C",
+          "text": "equilibrium yield increases, equilibrium yield unchanged",
+          "pdf_page": 5
+        },
+        {
+          "label": "D",
+          "text": "equilibrium yield increases, equilibrium yield increases",
+          "pdf_page": 5
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "15",
+      "introductory_text": "",
+      "text": "The Boltzmann distribution for a gas at a constant temperature of 50 °C is shown. If the temperature of the gas is reduced by 10 °C, the graph changes shape. What happens to the values of n for the molecular energies X, Y and Z?",
+      "pdf_page": 6,
+      "options": [
+        {
+          "label": "A",
+          "text": "higher, lower, higher",
+          "pdf_page": 6
+        },
+        {
+          "label": "B",
+          "text": "higher, lower, lower",
+          "pdf_page": 6
+        },
+        {
+          "label": "C",
+          "text": "lower, higher, lower",
+          "pdf_page": 6
+        },
+        {
+          "label": "D",
+          "text": "lower, lower, lower",
+          "pdf_page": 6
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "16",
+      "introductory_text": "",
+      "text": "A 3.0 g sample of Na2CO3 powder is stirred into 50 cm3 of 1.0 mol dm–3 HCl. The volume of CO2 produced is 600 cm3. Na2CO3(s) + 2HCl(aq) → 2NaCl(aq) + CO2(g) + H2O(l). [Mr: Na2CO3, 106.0]. Which volume of CO2 is produced if 1.0 g of Na2CO3 powder is stirred into 50 cm3 of 1.0 mol dm–3 HCl under the same conditions?",
+      "pdf_page": 6,
+      "options": [
+        {
+          "label": "A",
+          "text": "600 cm3",
+          "pdf_page": 6
+        },
+        {
+          "label": "B",
+          "text": "452 cm3",
+          "pdf_page": 6
+        },
+        {
+          "label": "C",
+          "text": "226 cm3",
+          "pdf_page": 6
+        },
+        {
+          "label": "D",
+          "text": "200 cm3",
+          "pdf_page": 6
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "17",
+      "introductory_text": "",
+      "text": "Solid sodium iodide reacts with concentrated sulfuric acid to form more than one product that contains sulfur. What is the lowest oxidation number of sulfur in these products?",
+      "pdf_page": 6,
+      "options": [
+        {
+          "label": "A",
+          "text": "–2",
+          "pdf_page": 6
+        },
+        {
+          "label": "B",
+          "text": "0",
+          "pdf_page": 6
+        },
+        {
+          "label": "C",
+          "text": "+4",
+          "pdf_page": 6
+        },
+        {
+          "label": "D",
+          "text": "+6",
+          "pdf_page": 6
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "18",
+      "introductory_text": "",
+      "text": "Which statement for the element in Period 3 and Group 13 of the Periodic Table is correct?",
+      "pdf_page": 7,
+      "options": [
+        {
+          "label": "A",
+          "text": "It has the highest melting point of the elements in its period.",
+          "pdf_page": 7
+        },
+        {
+          "label": "B",
+          "text": "It has exactly one electron in its shell with principal quantum number 3.",
+          "pdf_page": 7
+        },
+        {
+          "label": "C",
+          "text": "It forms an oxide that reacts with aqueous sodium hydroxide.",
+          "pdf_page": 7
+        },
+        {
+          "label": "D",
+          "text": "It forms a chloride that dissolves in water to give a neutral solution.",
+          "pdf_page": 7
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "19",
+      "introductory_text": "",
+      "text": "A student reacts 0.100 mol of each of sodium, magnesium and phosphorus atoms separately with an excess of oxygen. Which rows are correct?",
+      "pdf_page": 7,
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2 and 3",
+          "pdf_page": 7
+        },
+        {
+          "label": "B",
+          "text": "1 and 2 only",
+          "pdf_page": 7
+        },
+        {
+          "label": "C",
+          "text": "1 and 3 only",
+          "pdf_page": 7
+        },
+        {
+          "label": "D",
+          "text": "2 and 3 only",
+          "pdf_page": 7
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "20",
+      "introductory_text": "",
+      "text": "A mixture contains magnesium carbonate and barium carbonate only. A sample of the mixture is dissolved in nitric acid to produce a solution. How could this solution be processed into a magnesium compound and a separate barium compound?",
+      "pdf_page": 7,
+      "options": [
+        {
+          "label": "A",
+          "text": "Add HCl(aq), filter off the solid barium chloride.",
+          "pdf_page": 7
+        },
+        {
+          "label": "B",
+          "text": "Add HCl(aq), filter off the solid magnesium chloride.",
+          "pdf_page": 7
+        },
+        {
+          "label": "C",
+          "text": "Add H2SO4(aq), filter off the solid barium sulfate.",
+          "pdf_page": 7
+        },
+        {
+          "label": "D",
+          "text": "Add H2SO4(aq), filter off the solid magnesium sulfate.",
+          "pdf_page": 7
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "21",
+      "introductory_text": "",
+      "text": "A sample of magnesium nitrate is heated in the apparatus shown. The pH of the solution in the trough is measured. The gas collected is tested with a glowing splint. What are the results?",
+      "pdf_page": 8,
+      "options": [
+        {
+          "label": "A",
+          "text": "8, relights",
+          "pdf_page": 8
+        },
+        {
+          "label": "B",
+          "text": "2, relights",
+          "pdf_page": 8
+        },
+        {
+          "label": "C",
+          "text": "8, extinguished",
+          "pdf_page": 8
+        },
+        {
+          "label": "D",
+          "text": "2, extinguished",
+          "pdf_page": 8
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "22",
+      "introductory_text": "",
+      "text": "The results of tests performed on a white crystalline solid, X, are given in the table. What is the identity of X?",
+      "pdf_page": 8,
+      "options": [
+        {
+          "label": "A",
+          "text": "aluminium bromide",
+          "pdf_page": 8
+        },
+        {
+          "label": "B",
+          "text": "aluminium chloride",
+          "pdf_page": 8
+        },
+        {
+          "label": "C",
+          "text": "ammonium bromide",
+          "pdf_page": 8
+        },
+        {
+          "label": "D",
+          "text": "ammonium chloride",
+          "pdf_page": 8
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "23",
+      "introductory_text": "",
+      "text": "Silicon is heated in an excess of chlorine, producing compound J. An excess of water is added to the sample of J produced. Which row is correct?",
+      "pdf_page": 9,
+      "options": [
+        {
+          "label": "A",
+          "text": "giant molecular, no",
+          "pdf_page": 9
+        },
+        {
+          "label": "B",
+          "text": "giant molecular, yes",
+          "pdf_page": 9
+        },
+        {
+          "label": "C",
+          "text": "simple molecular, no",
+          "pdf_page": 9
+        },
+        {
+          "label": "D",
+          "text": "simple molecular, yes",
+          "pdf_page": 9
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "24",
+      "introductory_text": "",
+      "text": "In a catalytic converter, 5.6 g of carbon monoxide react with an excess of nitrogen monoxide. What is produced in this reaction?",
+      "pdf_page": 9,
+      "options": [
+        {
+          "label": "A",
+          "text": "2.4 g of C and 6.0 g of NO2",
+          "pdf_page": 9
+        },
+        {
+          "label": "B",
+          "text": "2.4 g of C and 9.2 g of NO2",
+          "pdf_page": 9
+        },
+        {
+          "label": "C",
+          "text": "8.8 g of CO2 and 1.4 g of N2",
+          "pdf_page": 9
+        },
+        {
+          "label": "D",
+          "text": "8.8 g of CO2 and 2.8 g of N2",
+          "pdf_page": 9
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "25",
+      "introductory_text": "",
+      "text": "Which reaction mixture produces an acidic gas?",
+      "pdf_page": 9,
+      "options": [
+        {
+          "label": "A",
+          "text": "aqueous ammonium nitrate and solid calcium oxide",
+          "pdf_page": 9
+        },
+        {
+          "label": "B",
+          "text": "calcium and aqueous hydrochloric acid",
+          "pdf_page": 9
+        },
+        {
+          "label": "C",
+          "text": "potassium chloride and concentrated sulfuric acid",
+          "pdf_page": 9
+        },
+        {
+          "label": "D",
+          "text": "sodium oxide and water",
+          "pdf_page": 9
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "26",
+      "introductory_text": "",
+      "text": "Ethanol can be used to make propanenitrile in two steps. CH3CH2OH → CH3CH2Br → CH3CH2CN. What types of reaction are X and Y?",
+      "pdf_page": 10,
+      "options": [
+        {
+          "label": "A",
+          "text": "free-radical substitution, electrophilic substitution",
+          "pdf_page": 10
+        },
+        {
+          "label": "B",
+          "text": "free-radical substitution, nucleophilic substitution",
+          "pdf_page": 10
+        },
+        {
+          "label": "C",
+          "text": "nucleophilic substitution, nucleophilic substitution",
+          "pdf_page": 10
+        },
+        {
+          "label": "D",
+          "text": "nucleophilic substitution, electrophilic substitution",
+          "pdf_page": 10
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "27",
+      "introductory_text": "",
+      "text": "Which compound will react with LiAlH4 to form two optical isomers?",
+      "pdf_page": 10,
+      "options": [
+        {
+          "label": "A",
+          "text": "CH3CH2COCH3",
+          "pdf_page": 10
+        },
+        {
+          "label": "B",
+          "text": "CH3CH2CH2CHO",
+          "pdf_page": 10
+        },
+        {
+          "label": "C",
+          "text": "CH3CH2COCH2CH3",
+          "pdf_page": 10
+        },
+        {
+          "label": "D",
+          "text": "CH3CH(CH3)CH2CO2H",
+          "pdf_page": 10
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "28",
+      "introductory_text": "",
+      "text": "How many esters have the molecular formula C4H8O2?",
+      "pdf_page": 10,
+      "options": [
+        {
+          "label": "A",
+          "text": "2",
+          "pdf_page": 10
+        },
+        {
+          "label": "B",
+          "text": "3",
+          "pdf_page": 10
+        },
+        {
+          "label": "C",
+          "text": "4",
+          "pdf_page": 10
+        },
+        {
+          "label": "D",
+          "text": "5",
+          "pdf_page": 10
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "29",
+      "introductory_text": "",
+      "text": "Carbon monoxide, CO, nitrogen dioxide, NO2, and sulfur dioxide, SO2, are all atmospheric pollutants. Which reaction occurs in the atmosphere?",
+      "pdf_page": 10,
+      "options": [
+        {
+          "label": "A",
+          "text": "CO is spontaneously oxidised to CO2.",
+          "pdf_page": 10
+        },
+        {
+          "label": "B",
+          "text": "NO2 is reduced to NO by SO2.",
+          "pdf_page": 10
+        },
+        {
+          "label": "C",
+          "text": "NO2 is reduced to NO by CO.",
+          "pdf_page": 10
+        },
+        {
+          "label": "D",
+          "text": "SO2 is oxidised to SO3 by CO2.",
+          "pdf_page": 10
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "30",
+      "introductory_text": "",
+      "text": "Oct-1-ene, CH3(CH2)5CH=CH2, can be thermally cracked. Which of the compounds W, X, Y and Z can be obtained by thermally cracking oct-1-ene?",
+      "pdf_page": 11,
+      "options": [
+        {
+          "label": "A",
+          "text": "W, X, Y and Z",
+          "pdf_page": 11
+        },
+        {
+          "label": "B",
+          "text": "W, X and Y only",
+          "pdf_page": 11
+        },
+        {
+          "label": "C",
+          "text": "W, X and Z only",
+          "pdf_page": 11
+        },
+        {
+          "label": "D",
+          "text": "W and X only",
+          "pdf_page": 11
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "31",
+      "introductory_text": "",
+      "text": "Structural isomerism and stereoisomerism should be taken into account when answering this question. How many isomeric alkenes with formula C5H8 are present in the mixture produced when 1,4-dibromopentane is reacted with NaOH in ethanol?",
+      "pdf_page": 11,
+      "options": [
+        {
+          "label": "A",
+          "text": "1",
+          "pdf_page": 11
+        },
+        {
+          "label": "B",
+          "text": "2",
+          "pdf_page": 11
+        },
+        {
+          "label": "C",
+          "text": "3",
+          "pdf_page": 11
+        },
+        {
+          "label": "D",
+          "text": "4",
+          "pdf_page": 11
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "32",
+      "introductory_text": "",
+      "text": "The presence of a halogen in an organic compound may be detected by warming the organic compound with aqueous silver nitrate. Which compound would be the quickest to produce a precipitate?",
+      "pdf_page": 11,
+      "options": [
+        {
+          "label": "A",
+          "text": "Structure A",
+          "pdf_page": 11
+        },
+        {
+          "label": "B",
+          "text": "Structure B",
+          "pdf_page": 11
+        },
+        {
+          "label": "C",
+          "text": "Structure C",
+          "pdf_page": 11
+        },
+        {
+          "label": "D",
+          "text": "Structure D",
+          "pdf_page": 11
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "33",
+      "introductory_text": "",
+      "text": "17.6 g of pentan-1-ol is completely combusted. Which volume of gaseous products is formed when measured at s.t.p.?",
+      "pdf_page": 11,
+      "options": [
+        {
+          "label": "A",
+          "text": "22.4 dm3",
+          "pdf_page": 11
+        },
+        {
+          "label": "B",
+          "text": "24.0 dm3",
+          "pdf_page": 11
+        },
+        {
+          "label": "C",
+          "text": "49.3 dm3",
+          "pdf_page": 11
+        },
+        {
+          "label": "D",
+          "text": "52.8 dm3",
+          "pdf_page": 11
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "34",
+      "introductory_text": "",
+      "text": "Crotyl alcohol, CH3CH=CHCH2OH, is a colourless liquid which is used as a solvent. Crotyl alcohol will react separately with Br2, K2Cr2O7/H+, conc. KMnO4/H+ and PCl5 under suitable conditions. Which row is correct?",
+      "pdf_page": 12,
+      "options": [
+        {
+          "label": "A",
+          "text": "Br2, room temperature, CH3CH=CHCH2Br",
+          "pdf_page": 12
+        },
+        {
+          "label": "B",
+          "text": "K2Cr2O7/H+, heat under reflux, CH3CH=CHCHO",
+          "pdf_page": 12
+        },
+        {
+          "label": "C",
+          "text": "conc. KMnO4/H+, heat under reflux, CH3CH=CHCO2H",
+          "pdf_page": 12
+        },
+        {
+          "label": "D",
+          "text": "PCl5, room temperature, CH3CH=CHCH2Cl",
+          "pdf_page": 12
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "35",
+      "introductory_text": "",
+      "text": "The skeletal formulae of two organic compounds are shown. Which reagents can be used to distinguish these two compounds?",
+      "pdf_page": 12,
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2 and 3",
+          "pdf_page": 12
+        },
+        {
+          "label": "B",
+          "text": "1 and 3 only",
+          "pdf_page": 12
+        },
+        {
+          "label": "C",
+          "text": "2 and 3 only",
+          "pdf_page": 12
+        },
+        {
+          "label": "D",
+          "text": "2 only",
+          "pdf_page": 12
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "36",
+      "introductory_text": "",
+      "text": "A carbonyl compound, X, reacts with HCN in the presence of NaCN to make a compound with Mr 85. Compound X does not react with Fehling’s reagent. What is compound X?",
+      "pdf_page": 12,
+      "options": [
+        {
+          "label": "A",
+          "text": "butanal",
+          "pdf_page": 12
+        },
+        {
+          "label": "B",
+          "text": "butanone",
+          "pdf_page": 12
+        },
+        {
+          "label": "C",
+          "text": "propanal",
+          "pdf_page": 12
+        },
+        {
+          "label": "D",
+          "text": "propanone",
+          "pdf_page": 12
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "37",
+      "introductory_text": "",
+      "text": "Which compound produces butan-2-ol and ethanoic acid on hydrolysis?",
+      "pdf_page": 13,
+      "options": [
+        {
+          "label": "A",
+          "text": "CH3CO2CH(CH3)2",
+          "pdf_page": 13
+        },
+        {
+          "label": "B",
+          "text": "CH3CO2CH(CH3)CH2CH3",
+          "pdf_page": 13
+        },
+        {
+          "label": "C",
+          "text": "CH3CH(CH3)CO2CH2CH3",
+          "pdf_page": 13
+        },
+        {
+          "label": "D",
+          "text": "CH3CH2CO2CH(CH3)CH2CH3",
+          "pdf_page": 13
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "38",
+      "introductory_text": "",
+      "text": "Two 1 g samples of Y are reacted separately and completely with sodium and with sodium carbonate. The volumes of the gases produced are collected and measured. What could Y be?",
+      "pdf_page": 13,
+      "options": [
+        {
+          "label": "A",
+          "text": "CH3CH(OH)CH2OH",
+          "pdf_page": 13
+        },
+        {
+          "label": "B",
+          "text": "CH3CH(OH)CO2H",
+          "pdf_page": 13
+        },
+        {
+          "label": "C",
+          "text": "CH3COCH2OH",
+          "pdf_page": 13
+        },
+        {
+          "label": "D",
+          "text": "CH3COCO2H",
+          "pdf_page": 13
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "39",
+      "introductory_text": "",
+      "text": "The diagram shows a section of an addition polymer formed from two different monomers. One of the monomers is propene. What is the other monomer?",
+      "pdf_page": 13,
+      "options": [
+        {
+          "label": "A",
+          "text": "Structure A",
+          "pdf_page": 13
+        },
+        {
+          "label": "B",
+          "text": "Structure B",
+          "pdf_page": 13
+        },
+        {
+          "label": "C",
+          "text": "Structure C",
+          "pdf_page": 13
+        },
+        {
+          "label": "D",
+          "text": "Structure D",
+          "pdf_page": 13
+        }
+      ],
+      "parts": []
+    },
+    {
+      "number": "40",
+      "introductory_text": "",
+      "text": "A scientist chooses either infrared spectroscopy or mass spectrometry to find a particular piece of information. In which row has the best choice been made?",
+      "pdf_page": 14,
+      "options": [
+        {
+          "label": "A",
+          "text": "identities of functional groups in an organic compound, infrared spectroscopy",
+          "pdf_page": 14
+        },
+        {
+          "label": "B",
+          "text": "identities of functional groups in an organic compound, mass spectrometry",
+          "pdf_page": 14
+        },
+        {
+          "label": "C",
+          "text": "values of successive ionisation energies of Na, infrared spectroscopy",
+          "pdf_page": 14
+        },
+        {
+          "label": "D",
+          "text": "values of successive ionisation energies of Na, mass spectrometry",
+          "pdf_page": 14
+        }
+      ],
+      "parts": []
+    }
+  ],
+  "extraction_notes": [
+    "Question 32: The options contain chemical structures instead of text. I have labeled them as 'Structure A', 'Structure B', etc.",
+    "Question 39: The options contain chemical structures instead of text. I have labeled them as 'Structure A', 'Structure B', etc."
+  ]
+}

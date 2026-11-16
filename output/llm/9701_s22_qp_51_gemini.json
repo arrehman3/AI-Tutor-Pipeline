@@ -1,0 +1,215 @@
+{
+  "source_file": "9701_s22_qp_51.pdf",
+  "subject_code": "9701",
+  "component": "51",
+  "questions": [
+    {
+      "number": "1",
+      "introductory_text": "A student plans an investigation to find the molar ratio of the reaction between sodium chloride, NaCl, and a lead compound. The student is provided with solid NaCl and 0.200moldm–3 aqueous lead compound. The reaction between NaCl(aq) and the aqueous lead compound produces an insoluble compound as a precipitate.",
+      "text": "",
+      "pdf_page": 2,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "The student prepares 0.200moldm–3 NaCl(aq). Calculate the mass of NaCl(s) needed to make 250.0cm3 of 0.200moldm–3 NaCl(aq).",
+          "marks": 1,
+          "pdf_page": 2,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "The student weighs the mass of NaCl(s) calculated in (a) in a weighing boat. The solid mass is then transferred into a small beaker. Describe how the student should accurately weigh by difference so the exact mass of NaCl transferred into the small beaker is known.",
+          "marks": 1,
+          "pdf_page": 2,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "The student is given a small beaker containing the mass of NaCl calculated in (a). Describe how the student should prepare 250.0cm3 of 0.200moldm–3 NaCl(aq). Include the names and capacities of each piece of apparatus used in the preparation of the solution.",
+          "marks": 2,
+          "pdf_page": 2,
+          "subparts": []
+        },
+        {
+          "label": "(d)",
+          "text": "The student plans the following method using the 0.200moldm–3 aqueous lead compound and the 0.200moldm–3 NaCl(aq) prepared in (c). Step 1 Mix the NaCl(aq) and the aqueous lead compound in eight separate beakers in the proportions by volume shown in Table 1.1. Step 2 Filter the contents of each beaker to collect the precipitate. Step 3 Dry the precipitate for 3 minutes in an oven and allow to cool. Step 4 Weigh and record the mass of precipitate produced in each beaker.",
+          "marks": null,
+          "pdf_page": 3,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "State one extra step that would improve this method. Explain why this step is necessary.",
+              "marks": 2,
+              "pdf_page": 3
+            },
+            {
+              "label": "(ii)",
+              "text": "The volumes of solutions are measured using a burette. Calculate the percentage error when measuring 10.00cm3 of solution. Show your working.",
+              "marks": 1,
+              "pdf_page": 4
+            },
+            {
+              "label": "(iii)",
+              "text": "Explain how you would ensure that the results of the investigation are reliable.",
+              "marks": 1,
+              "pdf_page": 4
+            }
+          ]
+        },
+        {
+          "label": "(e)",
+          "text": "The results of the investigation are shown on the graph in Fig. 1.1.",
+          "marks": null,
+          "pdf_page": 4,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Draw two straight lines of best fit through the points. Extrapolate both lines so they intersect.",
+              "marks": 1,
+              "pdf_page": 4
+            },
+            {
+              "label": "(ii)",
+              "text": "Using Fig. 1.1 and Table 1.1, state the volumes of 0.200moldm–3 NaCl(aq) and 0.200moldm–3 aqueous lead compound which produce the maximum mass of precipitate. Calculate the molar ratio in which the NaCl and the lead compound react.",
+              "marks": 2,
+              "pdf_page": 4
+            }
+          ]
+        },
+        {
+          "label": "(f)",
+          "text": "Use the molar ratio in (e)(ii) to deduce the formula of the precipitate.",
+          "marks": 1,
+          "pdf_page": 4,
+          "subparts": []
+        },
+        {
+          "label": "(g)",
+          "text": "A student suggests that a simpler method can be used to find the molar ratio. Different volumes of 0.200moldm–3 NaCl(aq) and 0.200moldm–3 aqueous lead compound are mixed in test-tubes. The resulting precipitates are allowed to settle. The height of each precipitate is then measured. A further two investigations are carried out. The volumes used and the results of the two investigations are shown. Neither investigation produced the expected results. Both investigations, 1 and 2, contain weaknesses in the experimental procedure. State how you would modify the experimental procedure in each case so that the expected results are obtained.",
+          "marks": 2,
+          "pdf_page": 6,
+          "subparts": [
+            {
+              "label": "modification for investigation 1:",
+              "text": "modification for investigation 1:",
+              "marks": null,
+              "pdf_page": 7
+            },
+            {
+              "label": "modification for investigation 2:",
+              "text": "modification for investigation 2:",
+              "marks": null,
+              "pdf_page": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "introductory_text": "A student plans to study the rate of hydrolysis of 2-bromo-2-methylpropane. As the concentration of 2-bromo-2-methylpropane decreases during the reaction, the concentration of hydrogen ions increases. The student plans the following method. Step 1 Place 100cm3 of a mixture of propanone and water into a conical flask. Step 2 Heat the mixture to 35°C and maintain this temperature. Step 3 Add 1.00cm3 of 2-bromo-2-methylpropane to the mixture and start timing. Step 4 After 1 minute, transfer a 10.00cm3 sample of the reaction mixture into a conical flask containing ice and 4 drops of methyl orange indicator. Step 5 Immediately titrate the 10.00cm3 of the reaction mixture with 0.0200moldm–3 sodium hydroxide. Step 6 Repeat sampling and titrating at regular time intervals over a total time of 45 minutes. Step 7 Heat the reaction mixture to 50°C, remove the final sample, and titrate this.",
+      "text": "",
+      "pdf_page": 8,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "",
+          "marks": null,
+          "pdf_page": 8,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "State the apparatus you would use to maintain the temperature of the reaction mixture.",
+              "marks": 1,
+              "pdf_page": 8
+            },
+            {
+              "label": "(ii)",
+              "text": "Suggest why the experiment is carried out away from naked flames.",
+              "marks": 1,
+              "pdf_page": 8
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "text": "State the pieces of equipment and their capacities that you would use to:",
+          "marks": null,
+          "pdf_page": 8,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "measure 1.00cm3 of 2-bromo-2-methylpropane in step 3",
+              "marks": 1,
+              "pdf_page": 8
+            },
+            {
+              "label": "(ii)",
+              "text": "transfer a 10.00cm3 sample of the mixture in step 4.",
+              "marks": 1,
+              "pdf_page": 8
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "text": "Explain why the reaction mixture is transferred into a conical flask containing ice.",
+          "marks": 1,
+          "pdf_page": 10,
+          "subparts": []
+        },
+        {
+          "label": "(d)",
+          "text": "State the measured dependent variable for this experiment.",
+          "marks": 1,
+          "pdf_page": 10,
+          "subparts": []
+        },
+        {
+          "label": "(e)",
+          "text": "The student recorded the results. Vfinal is the final titre volume, 47.25cm3 in step 7. Complete Table 2.1 by calculating the value of Vfinal – Vt. Record the values to 2 decimal places.",
+          "marks": 1,
+          "pdf_page": 10,
+          "subparts": [
+            {
+              "label": "(ii)",
+              "text": "The titre, Vt, is proportional to the concentration of the hydrogen ions. State what Vfinal – Vt is proportional to.",
+              "marks": 1,
+              "pdf_page": 10
+            },
+            {
+              "label": "(iii)",
+              "text": "Plot a graph on the grid to show the relationship between Vfinal – Vt and time. Use a cross (×) to plot each data point. Draw a curved line of best fit.",
+              "marks": 2,
+              "pdf_page": 10
+            },
+            {
+              "label": "(iv)",
+              "text": "Circle the point on the graph you consider to be most anomalous. Suggest one reason why this anomaly may have occurred during this experimental procedure.",
+              "marks": 2,
+              "pdf_page": 11
+            },
+            {
+              "label": "(v)",
+              "text": "Use the graph to find two half-lives, t1/2, for this reaction. State the coordinates of both points you used in your calculations.",
+              "marks": 3,
+              "pdf_page": 12
+            },
+            {
+              "label": "(vi)",
+              "text": "Use your answer to (e)(v) to state the order of the reaction with respect to 2-bromo-2-methylpropane. Explain your answer. (If you were unable to obtain an answer to (e)(v) you may use the values 1050s and 1045s for the half-lives. These are not the correct values.)",
+              "marks": 1,
+              "pdf_page": 12
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extraction_notes": [
+    "In question 1(g), the modification requests are presented as part of the question text rather than distinct subparts, but I have extracted them as subparts for clarity.",
+    "In question 2(e), the subpart (i) is the instruction to complete the table, and the subsequent subparts (ii) to (vi) follow. The table completion itself is the task for (i)."
+  ]
+}

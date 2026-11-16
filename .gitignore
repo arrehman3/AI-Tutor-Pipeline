@@ -1,0 +1,28 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Original examination PDFs
+PDFS/
+
+# Ignore intermediate extraction data
+output/extracted/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+

@@ -1,0 +1,227 @@
+{
+  "source_file": "9709_s22_qp_31.pdf",
+  "subject_code": "9709",
+  "component": "31",
+  "questions": [
+    {
+      "number": "1",
+      "introductory_text": "",
+      "text": "Solve the equation 2(3^(2x-1)) = 4^(x+1), giving your answer correct to 2 decimal places.",
+      "pdf_page": 3,
+      "options": [],
+      "parts": []
+    },
+    {
+      "number": "2",
+      "introductory_text": "",
+      "text": "",
+      "pdf_page": 4,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Expand (2 - x^2)^(-2) in ascending powers of x, up to and including the term in x^4, simplifying the coefficients.",
+          "marks": 4,
+          "pdf_page": 4,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "State the set of values of x for which the expansion is valid.",
+          "marks": 1,
+          "pdf_page": 4,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "introductory_text": "",
+      "text": "Solve the equation 2 cot 2x + 3 cot x = 5, for 0° < x < 180°.",
+      "pdf_page": 5,
+      "options": [],
+      "parts": []
+    },
+    {
+      "number": "4",
+      "introductory_text": "The variables x and y satisfy the differential equation dy/dx = xy / (1 + x^2), and y = 2 when x = 0.",
+      "text": "Solve the differential equation, obtaining a simplified expression for y in terms of x.",
+      "pdf_page": 6,
+      "options": [],
+      "parts": []
+    },
+    {
+      "number": "5",
+      "introductory_text": "The polynomial ax^3 - 10x^2 + bx + 8, where a and b are constants, is denoted by p(x). It is given that (x - 2) is a factor of both p(x) and p'(x).",
+      "text": "",
+      "pdf_page": 8,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Find the values of a and b.",
+          "marks": 5,
+          "pdf_page": 8,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "When a and b have these values, factorise p(x) completely.",
+          "marks": 3,
+          "pdf_page": 9,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "introductory_text": "Let I = ∫[0 to 3] 27 / (9 + x^2)^2 dx.",
+      "text": "",
+      "pdf_page": 10,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Using the substitution x = 3 tan θ, show that I = ∫[0 to 1/4π] cos^2 θ dθ.",
+          "marks": 4,
+          "pdf_page": 10,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Hence find the exact value of I.",
+          "marks": 4,
+          "pdf_page": 11,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "introductory_text": "The complex number u is defined by u = (√2 - a√2i) / (1 + 2i), where a is a positive integer.",
+      "text": "",
+      "pdf_page": 12,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Express u in terms of a, in the form x + iy, where x and y are real and exact.",
+          "marks": 3,
+          "pdf_page": 12,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "It is now given that a = 3. Express u in the form re^(iθ), where r > 0 and -π < θ ≤ π, giving the exact values of r and θ.",
+          "marks": 2,
+          "pdf_page": 13,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "Using your answer to part (b), find the two square roots of u. Give your answers in the form re^(iθ), where r > 0 and -π < θ ≤ π, giving the exact values of r and θ.",
+          "marks": 3,
+          "pdf_page": 13,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "introductory_text": "The equation of a curve is x^3 + y^3 + 2xy + 8 = 0.",
+      "text": "",
+      "pdf_page": 14,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Express dy/dx in terms of x and y.",
+          "marks": 4,
+          "pdf_page": 14,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "The tangent to the curve at the point where x = 0 and the tangent at the point where y = 0 intersect at the acute angle α. Find the exact value of tan α.",
+          "marks": 5,
+          "pdf_page": 15,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "introductory_text": "In the diagram, OABCDEFG is a cuboid in which OA = 2 units, OC = 4 units and OG = 2 units. Unit vectors i, j and k are parallel to OA, OC and OG respectively. The point M is the midpoint of DF. The point N on AB is such that AN = 3NB.",
+      "text": "",
+      "pdf_page": 16,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Express the vectors OM and MN in terms of i, j and k.",
+          "marks": 3,
+          "pdf_page": 16,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Find a vector equation for the line through M and N.",
+          "marks": 2,
+          "pdf_page": 16,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "Show that the length of the perpendicular from O to the line through M and N is √(53/6).",
+          "marks": 4,
+          "pdf_page": 17,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "introductory_text": "The curve y = x√sin x has one stationary point in the interval 0 < x < π, where x = a (see diagram).",
+      "text": "",
+      "pdf_page": 18,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Show that tan a = -1/2 a.",
+          "marks": 4,
+          "pdf_page": 18,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Verify by calculation that a lies between 2 and 2.5.",
+          "marks": 2,
+          "pdf_page": 19,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "Show that if a sequence of values in the interval 0 < x < π given by the iterative formula x_(n+1) = π - tan^(-1)(1/2 x_n) converges, then it converges to a, the root of the equation in part (a).",
+          "marks": 2,
+          "pdf_page": 19,
+          "subparts": []
+        },
+        {
+          "label": "(d)",
+          "text": "Use the iterative formula given in part (c) to determine a correct to 2 decimal places. Give the result of each iteration to 4 decimal places.",
+          "marks": 3,
+          "pdf_page": 19,
+          "subparts": []
+        }
+      ]
+    }
+  ],
+  "extraction_notes": [
+    "The OCR for question 1 contains a typo in the exponent representation, but the structure is clear.",
+    "The OCR for question 6a contains a typo in the substitution and integral limits, but the structure is clear.",
+    "The OCR for question 7 contains a typo in the complex number definition, but the structure is clear.",
+    "The OCR for question 9c contains a typo in the square root expression, but the structure is clear.",
+    "The OCR for question 10a contains a typo in the function definition, but the structure is clear."
+  ]
+}

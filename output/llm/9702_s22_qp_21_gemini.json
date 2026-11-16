@@ -1,0 +1,351 @@
+{
+  "source_file": "9702_s22_qp_21.pdf",
+  "subject_code": "9702",
+  "component": "21",
+  "questions": [
+    {
+      "number": "1",
+      "introductory_text": "",
+      "pdf_page": 4,
+      "parts": [
+        {
+          "label": "a",
+          "text": "Define velocity.",
+          "marks": 1,
+          "pdf_page": 4,
+          "subparts": []
+        },
+        {
+          "label": "b",
+          "text": "A rock of mass 7.5kg is projected vertically upwards from the surface of a planet. The rock leaves the surface of the planet with a speed of 4.0ms–1 at time t = 0. The variation with time t of the velocity v of the rock is shown in Fig. 1.1. Assume that the planet does not have an atmosphere and that the viscous force acting on the rock is always zero.",
+          "marks": null,
+          "pdf_page": 4,
+          "subparts": [
+            {
+              "label": "i",
+              "text": "Determine the height of the rock above the surface of the planet at time t = 4.0s.",
+              "marks": 3,
+              "pdf_page": 4
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "text": "",
+          "marks": null,
+          "pdf_page": 5,
+          "subparts": [
+            {
+              "label": "ii",
+              "text": "Determine the change in the momentum of the rock from time t = 0 to time t = 4.0s.",
+              "marks": 2,
+              "pdf_page": 5
+            },
+            {
+              "label": "iii",
+              "text": "Determine the weight W of the rock on this planet.",
+              "marks": 2,
+              "pdf_page": 5
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "text": "In practice, the planet in (b) does have an atmosphere that causes a viscous force to act on the moving rock. State and explain the variation, if any, in the resultant force acting on the rock as it moves vertically upwards.",
+          "marks": 2,
+          "pdf_page": 5,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "introductory_text": "",
+      "pdf_page": 6,
+      "parts": [
+        {
+          "label": "a",
+          "text": "State what is meant by the centre of gravity of an object.",
+          "marks": 1,
+          "pdf_page": 6,
+          "subparts": []
+        },
+        {
+          "label": "b",
+          "text": "A non-uniform rod XY is pivoted at point P, as shown in Fig. 2.1. The rod has length 4.00m and weight 44.0N. The centre of gravity of the rod is 1.70m from end X of the rod. Point P is 1.10m from end X. A sphere hangs by a wire from end Y of the rod. The weight of the sphere is 3.0N. The weight of the wire is negligible. A force F is applied vertically downwards at end X so that the horizontal rod is in equilibrium.",
+          "marks": null,
+          "pdf_page": 6,
+          "subparts": [
+            {
+              "label": "i",
+              "text": "By taking moments about P, calculate F.",
+              "marks": 3,
+              "pdf_page": 6
+            },
+            {
+              "label": "ii",
+              "text": "Calculate the force exerted on the rod by the pivot.",
+              "marks": 1,
+              "pdf_page": 6
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "text": "The sphere in (b) is now immersed in a liquid in a container, as shown in Fig. 2.2. The density of the liquid is 1100kgm–3. The upthrust acting on the sphere due to the liquid is 2.5N. The magnitude of F is unchanged so that the horizontal rod is not in equilibrium.",
+          "marks": null,
+          "pdf_page": 7,
+          "subparts": [
+            {
+              "label": "i",
+              "text": "Use Archimedes’ principle to determine the radius r of the sphere.",
+              "marks": 3,
+              "pdf_page": 7
+            },
+            {
+              "label": "ii",
+              "text": "Calculate the magnitude and direction of the resultant moment of the forces on the rod about P.",
+              "marks": 2,
+              "pdf_page": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "introductory_text": "",
+      "pdf_page": 8,
+      "parts": [
+        {
+          "label": "a",
+          "text": "",
+          "marks": null,
+          "pdf_page": 8,
+          "subparts": [
+            {
+              "label": "i",
+              "text": "Define power.",
+              "marks": 1,
+              "pdf_page": 8
+            },
+            {
+              "label": "ii",
+              "text": "A force F takes time t to move an object through a displacement x at constant velocity v in the direction of the force. The work done by the force is W. Use the definition of power to show that the power P transferred by the force is given by P = Fv.",
+              "marks": 2,
+              "pdf_page": 8
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "text": "A block is pulled up a slope by a wire attached to a motor, as shown in Fig. 3.1. The useful power output of the motor is 56W. The block has a weight of 430N and travels with constant velocity along the slope at an angle of 11° to the horizontal. Assume that there are no resistive forces opposing the motion of the block.",
+          "marks": null,
+          "pdf_page": 8,
+          "subparts": [
+            {
+              "label": "i",
+              "text": "Calculate the tension T in the wire.",
+              "marks": 2,
+              "pdf_page": 8
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "text": "",
+          "marks": null,
+          "pdf_page": 9,
+          "subparts": [
+            {
+              "label": "ii",
+              "text": "Calculate the speed of the block.",
+              "marks": 1,
+              "pdf_page": 9
+            },
+            {
+              "label": "iii",
+              "text": "The rate of increase of gravitational potential energy of the block is equal to the useful power output of the motor. One of the reasons for this is that there is no work done against resistive forces. By considering the motion of the block, state another reason for this.",
+              "marks": 1,
+              "pdf_page": 9
+            },
+            {
+              "label": "iv",
+              "text": "The motor has an efficiency of 80%. Calculate the time taken for an input energy of 1.2kJ to be supplied to the motor.",
+              "marks": 2,
+              "pdf_page": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "introductory_text": "",
+      "pdf_page": 10,
+      "parts": [
+        {
+          "label": "a",
+          "text": "Determine the spring constant k of the spring.",
+          "marks": 2,
+          "pdf_page": 10,
+          "subparts": []
+        },
+        {
+          "label": "b",
+          "text": "Determine the elastic potential energy in the spring when the applied force F is 15N.",
+          "marks": 3,
+          "pdf_page": 11,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "introductory_text": "",
+      "pdf_page": 12,
+      "parts": [
+        {
+          "label": "a",
+          "text": "Explain how the stationary wave is formed on the string.",
+          "marks": 2,
+          "pdf_page": 12,
+          "subparts": []
+        },
+        {
+          "label": "b",
+          "text": "On Fig. 5.1, sketch a line to show a possible position of the string a quarter of a cycle later than the position shown in the diagram.",
+          "marks": 1,
+          "pdf_page": 12,
+          "subparts": []
+        },
+        {
+          "label": "c",
+          "text": "Determine the horizontal distance from A to B.",
+          "marks": 3,
+          "pdf_page": 12,
+          "subparts": []
+        },
+        {
+          "label": "d",
+          "text": "A particle on the string has zero displacement at time t = 0. From time t = 0 to time t = 0.060s, the particle moves through a total distance of 72mm. Calculate the amplitude of oscillation of the particle.",
+          "marks": 2,
+          "pdf_page": 13,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "introductory_text": "",
+      "pdf_page": 14,
+      "parts": [
+        {
+          "label": "a",
+          "text": "State Kirchhoff’s first law.",
+          "marks": 1,
+          "pdf_page": 14,
+          "subparts": []
+        },
+        {
+          "label": "b",
+          "text": "A battery is connected to two resistors X and Y, as shown in Fig. 6.1. The resistance of resistor X is greater than the resistance of resistor Y.",
+          "marks": null,
+          "pdf_page": 14,
+          "subparts": [
+            {
+              "label": "i",
+              "text": "State and explain which resistor dissipates more power.",
+              "marks": 3,
+              "pdf_page": 14
+            },
+            {
+              "label": "ii",
+              "text": "The two resistors are made of wires that have the same length. Both wires are made from metal of the same resistivity. State and explain which resistor is made of wire with the larger cross-sectional area.",
+              "marks": 2,
+              "pdf_page": 14
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "text": "A battery of electromotive force (e.m.f.) 9.0V and negligible internal resistance is connected in series with a light-dependent resistor (LDR) and a fixed resistor of resistance 1800Ω, as shown in Fig. 6.2. A voltmeter is connected across the fixed resistor. The reading on the voltmeter is 5.4V.",
+          "marks": null,
+          "pdf_page": 15,
+          "subparts": [
+            {
+              "label": "i",
+              "text": "Calculate the current in the circuit.",
+              "marks": 1,
+              "pdf_page": 15
+            },
+            {
+              "label": "ii",
+              "text": "Calculate the resistance RL of the LDR.",
+              "marks": 2,
+              "pdf_page": 15
+            },
+            {
+              "label": "iii",
+              "text": "The intensity of the light illuminating the LDR increases. By reference to the current in the circuit, state and explain the change, if any, to the voltmeter reading.",
+              "marks": 2,
+              "pdf_page": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "introductory_text": "",
+      "pdf_page": 16,
+      "parts": [
+        {
+          "label": "a",
+          "text": "An unstable nucleus A ZX decays by emitting a β– particle.",
+          "marks": null,
+          "pdf_page": 16,
+          "subparts": [
+            {
+              "label": "i",
+              "text": "Determine quantitatively the changes, if any, in A and Z when X decays.",
+              "marks": 2,
+              "pdf_page": 16
+            },
+            {
+              "label": "ii",
+              "text": "In addition to the β– particle, another lepton is emitted during the decay. State the name of the other lepton that is emitted.",
+              "marks": 1,
+              "pdf_page": 16
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "text": "A particle P is composed of an up quark (u) and a down antiquark (d).",
+          "marks": null,
+          "pdf_page": 16,
+          "subparts": [
+            {
+              "label": "i",
+              "text": "Calculate the charge q of particle P in terms of e, where e is the elementary charge. Show your working.",
+              "marks": 2,
+              "pdf_page": 16
+            },
+            {
+              "label": "ii",
+              "text": "Particle P belongs to two classes (groups) of particles. State the names of these two classes.",
+              "marks": 2,
+              "pdf_page": 16
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extraction_notes": [
+    "The OCR for page 2 contains some garbled text in the Formulae section, specifically for the Doppler effect and resistors in parallel, but the structure is clear.",
+    "The OCR for page 4 and 5 contains some formatting issues with the graph labels, but the question structure is preserved.",
+    "The OCR for page 16 contains a typo in the nucleus notation 'A ZX' which should be interpreted as A over Z X."
+  ]
+}

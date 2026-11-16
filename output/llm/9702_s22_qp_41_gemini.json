@@ -1,0 +1,546 @@
+{
+  "source_file": "9702_s22_qp_41.pdf",
+  "subject_code": "9702",
+  "component": "41",
+  "questions": [
+    {
+      "number": "1",
+      "introductory_text": "",
+      "text": "",
+      "pdf_page": 4,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "",
+          "marks": null,
+          "pdf_page": 4,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "State Newton’s law of gravitation.",
+              "marks": 2,
+              "pdf_page": 4
+            },
+            {
+              "label": "(ii)",
+              "text": "Use Newton’s law of gravitation to show that the gravitational field strength g at a distance r away from a point mass M is given by g = GM/r^2.",
+              "marks": 2,
+              "pdf_page": 4
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "text": "The Earth has a mass of 5.98 × 10^24 kg and a radius of 6.37 × 10^6m. The Moon has a mass of 7.35 × 10^22 kg and a radius of 1.74 × 10^6m. The Earth and the Moon can both be considered as point masses at their centres. Their centres are a distance of 3.84 × 10^8m apart.",
+          "marks": null,
+          "pdf_page": 4,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Show that the gravitational field strength at the surface of the Moon due to the mass of the Moon is 1.62Nkg–1.",
+              "marks": 1,
+              "pdf_page": 4
+            },
+            {
+              "label": "(ii)",
+              "text": "Explain why there is a point X on the line between the centres of the Earth and the Moon where the resultant gravitational field strength due to the Earth and the Moon is zero.",
+              "marks": 2,
+              "pdf_page": 4
+            },
+            {
+              "label": "(iii)",
+              "text": "Calculate the distance x of point X from the centre of the Moon.",
+              "marks": 3,
+              "pdf_page": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "introductory_text": "A sphere of mass 1.6 × 10–10 kg has a charge of +0.27nC. The sphere is in a uniform electric field that acts vertically upwards, as shown in the side view in Fig. 2.1. The force exerted on the sphere by the electric field causes the sphere to remain at a fixed vertical height in a horizontal plane. There is a uniform magnetic field in the region of the electric field. The sphere moves at a speed of 0.78ms–1 in the horizontal plane. The magnetic field causes the sphere to move in a circular path of radius 3.4m, as shown in the view from above in Fig. 2.2.",
+      "text": "",
+      "pdf_page": 6,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "",
+          "marks": null,
+          "pdf_page": 7,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Determine the direction of the uniform magnetic field.",
+              "marks": 1,
+              "pdf_page": 7
+            },
+            {
+              "label": "(ii)",
+              "text": "Explain why the motion of the sphere in the horizontal plane is circular.",
+              "marks": 2,
+              "pdf_page": 7
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "text": "Calculate the strength of the uniform electric field.",
+          "marks": 2,
+          "pdf_page": 7,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "By considering the magnetic force on the sphere, show that the flux density of the uniform magnetic field is 0.14T.",
+          "marks": 3,
+          "pdf_page": 7,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "introductory_text": "A fixed mass of an ideal gas is initially at a temperature of 17°C. The gas has a volume of 0.24m^3 and a pressure of 1.2 × 10^5Pa.",
+      "text": "",
+      "pdf_page": 8,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "",
+          "marks": null,
+          "pdf_page": 8,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "State what is meant by an ideal gas.",
+              "marks": 2,
+              "pdf_page": 8
+            },
+            {
+              "label": "(ii)",
+              "text": "Calculate the amount n of gas.",
+              "marks": 2,
+              "pdf_page": 8
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "text": "The gas undergoes three successive changes, as shown in Fig. 3.1. The initial state is represented by point A. The gas is cooled at constant pressure to point B by the removal of 48.0kJ of thermal energy. The gas is then heated at constant volume to point C. Finally, the gas expands at constant temperature back to its original pressure and volume at point A. During this expansion, the gas does 31.6kJ of work.",
+          "marks": null,
+          "pdf_page": 8,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Show that the magnitude of the work done during the change AB is 19.2kJ.",
+              "marks": 2,
+              "pdf_page": 9
+            },
+            {
+              "label": "(ii)",
+              "text": "Complete Table 3.1 to show the work done on the gas, the thermal energy supplied to the gas and the increase in internal energy of the gas, for each of the changes AB, BC and CA.",
+              "marks": 5,
+              "pdf_page": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "introductory_text": "A pendulum consists of a bob (small metal sphere) attached to the end of a piece of string. The other end of the string is attached to a fixed point. The bob oscillates with small oscillations about its equilibrium position, as shown in Fig. 4.1. The length L of the pendulum, measured from the fixed point to the centre of the bob, is 1.24m. The acceleration a of the bob varies with its displacement x from the equilibrium position as shown in Fig. 4.2.",
+      "text": "",
+      "pdf_page": 10,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "State how Fig. 4.2 shows that the motion of the pendulum is simple harmonic.",
+          "marks": 2,
+          "pdf_page": 11,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "",
+          "marks": null,
+          "pdf_page": 11,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Use Fig. 4.2 to determine the angular frequency ω of the oscillations.",
+              "marks": 2,
+              "pdf_page": 11
+            },
+            {
+              "label": "(ii)",
+              "text": "The angular frequency ω is related to the length L of the pendulum by ω = sqrt(k/L) where k is a constant. Use your answer in (b)(i) to determine k. Give a unit with your answer.",
+              "marks": 2,
+              "pdf_page": 11
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "text": "While the pendulum is oscillating, the length of the string is increased in such a way that the total energy of the oscillations remains constant. Suggest and explain the qualitative effect of this change on the amplitude of the oscillations.",
+          "marks": 2,
+          "pdf_page": 11,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "introductory_text": "Fig. 5.1 shows four diodes and a load resistor of resistance 1.2kΩ, connected in a circuit that is used to produce rectification of an alternating voltage.",
+      "text": "",
+      "pdf_page": 12,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "",
+          "marks": null,
+          "pdf_page": 12,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "State what is meant by rectification.",
+              "marks": 1,
+              "pdf_page": 12
+            },
+            {
+              "label": "(ii)",
+              "text": "State the type of rectification produced by the circuit in Fig. 5.1.",
+              "marks": 1,
+              "pdf_page": 12
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "text": "A sinusoidal alternating voltage VIN is applied across the input terminals X and Y. The variation with time t of VIN is given by the equation VIN = 6.0sin25πt where VIN is in volts and t is in seconds.",
+          "marks": null,
+          "pdf_page": 12,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "On Fig. 5.1, label the output terminals P and Q with the appropriate symbols to indicate the polarity of the output voltage VOUT.",
+              "marks": 1,
+              "pdf_page": 12
+            },
+            {
+              "label": "(ii)",
+              "text": "The magnitude of the output voltage VOUT varies with t as shown in Fig. 5.2. On Fig. 5.2, label both of the axes with the correct scales. Use the space below for any working that you need.",
+              "marks": 3,
+              "pdf_page": 13
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "text": "The output voltage in (b) is smoothed by adding a capacitor to the circuit in Fig. 5.1. The difference between the maximum and minimum values of the smoothed output voltage is 10% of the peak voltage.",
+          "marks": null,
+          "pdf_page": 13,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "On Fig. 5.1, draw the circuit symbol for a capacitor showing the capacitor correctly connected into the circuit.",
+              "marks": 1,
+              "pdf_page": 13
+            },
+            {
+              "label": "(ii)",
+              "text": "On Fig. 5.2, sketch the variation with t of the smoothed output voltage.",
+              "marks": 2,
+              "pdf_page": 13
+            },
+            {
+              "label": "(iii)",
+              "text": "Calculate the capacitance C of the capacitor.",
+              "marks": 3,
+              "pdf_page": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "introductory_text": "",
+      "text": "",
+      "pdf_page": 14,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Define magnetic flux.",
+          "marks": 2,
+          "pdf_page": 14,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "A square coil of wire of side length 12cm consists of 8 insulated turns. The coil is stationary in a uniform magnetic field. The plane of the coil is perpendicular to the magnetic field, as shown in Fig. 6.1. The flux density B of the magnetic field varies with time t as shown in Fig. 6.2.",
+          "marks": null,
+          "pdf_page": 14,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Determine the magnetic flux linkage inside the coil at time t = 0.60s. Give a unit with your answer.",
+              "marks": 3,
+              "pdf_page": 15
+            },
+            {
+              "label": "(ii)",
+              "text": "State how Fig. 6.2 shows that the electromotive force (e.m.f.) E induced across the terminals between t = 0 and t = 0.60s is constant.",
+              "marks": 1,
+              "pdf_page": 15
+            },
+            {
+              "label": "(iii)",
+              "text": "Calculate the magnitude of E.",
+              "marks": 2,
+              "pdf_page": 15
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "text": "The procedure in (b) is repeated, but this time the terminals of the coil are connected together. State and explain the effect on the coil of connecting the terminals together during the change of magnetic flux density shown in Fig. 6.2.",
+          "marks": 3,
+          "pdf_page": 15,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "introductory_text": "",
+      "text": "",
+      "pdf_page": 16,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "State what is meant by a photon.",
+          "marks": 2,
+          "pdf_page": 16,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Electromagnetic radiation of a varying frequency f and constant intensity I is used to illuminate a metal surface. At certain frequencies, electrons are emitted from the surface of the metal. The variation with f of the maximum kinetic energy EMAX of the emitted electrons is shown in Fig. 7.1.",
+          "marks": null,
+          "pdf_page": 16,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "State the name of this phenomenon.",
+              "marks": 1,
+              "pdf_page": 16
+            },
+            {
+              "label": "(ii)",
+              "text": "Describe three conclusions that can be drawn from the graph in Fig. 7.1. The conclusions may be qualitative or quantitative.",
+              "marks": 3,
+              "pdf_page": 17
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "text": "The experiment in (b) is repeated twice, each time making one change. State, with a reason, how the graph obtained would compare with Fig. 7.1 when:",
+          "marks": null,
+          "pdf_page": 17,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "a different metal is used, but keeping the intensity I of the radiation the same",
+              "marks": 2,
+              "pdf_page": 17
+            },
+            {
+              "label": "(ii)",
+              "text": "the same metal is used, but with electromagnetic radiation of intensity 2I.",
+              "marks": 2,
+              "pdf_page": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "introductory_text": "",
+      "text": "",
+      "pdf_page": 18,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "",
+          "marks": null,
+          "pdf_page": 18,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "State what is meant by nuclear binding energy.",
+              "marks": 2,
+              "pdf_page": 18
+            },
+            {
+              "label": "(ii)",
+              "text": "On Fig. 8.1, sketch a line to show the variation with nucleon number A of the binding energy per nucleon E of a nucleus.",
+              "marks": 2,
+              "pdf_page": 18
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "text": "In one type of nuclear process, deuterium (2/1H) undergoes the reaction 2/1H + 2/1H -> 3/2He + 1/0n.",
+          "marks": null,
+          "pdf_page": 18,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "State the name of this type of nuclear process.",
+              "marks": 1,
+              "pdf_page": 18
+            },
+            {
+              "label": "(ii)",
+              "text": "Explain, with reference to your line in (a)(ii), why this reaction results in the release of energy.",
+              "marks": 2,
+              "pdf_page": 18
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "text": "Table 8.1 shows the masses of the particles involved in the reaction in (b). Calculate the energy released when 1.00mol of deuterium undergoes the reaction.",
+          "marks": 5,
+          "pdf_page": 19,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "introductory_text": "",
+      "text": "",
+      "pdf_page": 20,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "",
+          "marks": null,
+          "pdf_page": 20,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Explain how X-rays are produced for use in medical diagnosis.",
+              "marks": 3,
+              "pdf_page": 20
+            },
+            {
+              "label": "(ii)",
+              "text": "State why X-ray images are taken of multiple sections of the body during computed tomography (CT) scanning.",
+              "marks": 1,
+              "pdf_page": 20
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "text": "An X-ray image is taken of the structure shown in Fig. 9.1. The linear attenuation coefficient of bone is 3.4cm–1. The linear attenuation coefficient of soft tissue is 0.89cm–1. The incident X-rays are parallel and have a uniform intensity I0 across the structure. Determine, in terms of I0, the intensity of the detected X-rays from:",
+          "marks": null,
+          "pdf_page": 20,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "point P",
+              "marks": 2,
+              "pdf_page": 21
+            },
+            {
+              "label": "(ii)",
+              "text": "point Q.",
+              "marks": 2,
+              "pdf_page": 21
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "text": "Explain, with reference to your answers in (b), whether the X-ray image of the structure in Fig. 9.1 has good contrast.",
+          "marks": 1,
+          "pdf_page": 21,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "introductory_text": "",
+      "text": "",
+      "pdf_page": 22,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "State Wien’s displacement law.",
+          "marks": 1,
+          "pdf_page": 22,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Fig. 10.1 shows the wavelength distributions of electromagnetic radiation emitted by two stars A and B. The surface temperature of star A is known to be 5800K.",
+          "marks": null,
+          "pdf_page": 22,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Determine the surface temperature of star B.",
+              "marks": 2,
+              "pdf_page": 22
+            },
+            {
+              "label": "(ii)",
+              "text": "Star B appears less bright than star A when viewed from the Earth. Use Fig. 10.1 to suggest, with a reason, how else the physical appearance of star B compares with that of star A.",
+              "marks": 2,
+              "pdf_page": 23
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "text": "The lines in Fig. 10.1 have been corrected for redshift.",
+          "marks": null,
+          "pdf_page": 23,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "State what is meant by redshift.",
+              "marks": 2,
+              "pdf_page": 23
+            },
+            {
+              "label": "(ii)",
+              "text": "Explain how cosmologists are able to determine that light from a distant star has undergone redshift.",
+              "marks": 2,
+              "pdf_page": 23
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extraction_notes": []
+}

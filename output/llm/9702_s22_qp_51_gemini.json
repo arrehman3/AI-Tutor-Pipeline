@@ -1,0 +1,93 @@
+{
+  "source_file": "9702_s22_qp_51.pdf",
+  "subject_code": "9702",
+  "component": "51",
+  "questions": [
+    {
+      "number": "1",
+      "introductory_text": "Two parallel metal plates, each of area A, are separated by a small distance d, as shown in Fig. 1.1.\n\nThe plates are initially charged using a power supply.\n\nThe plates are then connected to an uncharged capacitor. The potential difference V across the capacitor is measured.\n\nIt is suggested that V is related to d by the relationship\nW/V = 1 + Cd/KA\nwhere C is the capacitance of the capacitor, and K and W are constants.\n\nPlan a laboratory experiment to test the relationship between V and d.\n\nDraw a diagram showing the arrangement of your equipment.\n\nExplain how the results could be used to determine values for K and W.\n\nIn your plan you should include:\n● the procedure to be followed\n● the measurements to be taken\n● the control of variables\n● the analysis of the data\n● any safety precautions to be taken.",
+      "text": "",
+      "pdf_page": 2,
+      "options": [],
+      "parts": [
+        {
+          "label": "",
+          "text": "Plan a laboratory experiment to test the relationship between V and d. Draw a diagram showing the arrangement of your equipment. Explain how the results could be used to determine values for K and W.",
+          "marks": 15,
+          "pdf_page": 2,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "introductory_text": "A student investigates the relationship between the luminosity L of a star and its mass M for a set of stars known as main-sequence stars.\n\nIt is suggested that L and M are related by the equation\nL = SZMn\nwhere S is the luminosity of the Sun, and Z and n are constants.",
+      "text": "",
+      "pdf_page": 5,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "A graph is plotted of lg L on the y-axis against lg M on the x-axis. Determine expressions for the gradient and y-intercept.",
+          "marks": 1,
+          "pdf_page": 5,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Values of M and L are given in Table 2.1. Calculate and record values of lg (M/10^30 kg) and lg (L/10^28 W) in Table 2.1. Include the absolute uncertainties in lg (M/10^30 kg).",
+          "marks": 2,
+          "pdf_page": 6,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "",
+          "marks": null,
+          "pdf_page": 6,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Plot a graph of lg (L/10^28 W) against lg (M/10^30 kg). Include error bars for lg (M/10^30 kg).",
+              "marks": 2,
+              "pdf_page": 6
+            },
+            {
+              "label": "(ii)",
+              "text": "Draw the straight line of best fit and a worst acceptable straight line on your graph. Label both lines.",
+              "marks": 2,
+              "pdf_page": 6
+            },
+            {
+              "label": "(iii)",
+              "text": "Determine the gradient of the line of best fit. Include the absolute uncertainty in your answer.",
+              "marks": 2,
+              "pdf_page": 6
+            },
+            {
+              "label": "(iv)",
+              "text": "Determine the y-intercept of the line of best fit. Include the absolute uncertainty in your answer.",
+              "marks": 2,
+              "pdf_page": 8
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "text": "Using your answers to (a), (c)(iii) and (c)(iv), determine the values of n and Z. Include the absolute uncertainties in your values. You need not be concerned with units. Data: S = 3.85 × 10^26 W",
+          "marks": 3,
+          "pdf_page": 8,
+          "subparts": []
+        },
+        {
+          "label": "(e)",
+          "text": "Another main-sequence star has a mass of 3.0 × 10^30 kg. Determine the luminosity L of this star.",
+          "marks": 1,
+          "pdf_page": 8,
+          "subparts": []
+        }
+      ]
+    }
+  ],
+  "extraction_notes": []
+}

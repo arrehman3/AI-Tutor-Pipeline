@@ -1,0 +1,296 @@
+{
+  "source_file": "9701_s22_qp_41.pdf",
+  "model": "gemini-3.1-flash-lite",
+  "resources": [
+    {
+      "resource_id": "q3_fig3_1",
+      "type": "graph",
+      "question": "3",
+      "part": "a",
+      "subpart": null,
+      "pdf_page": 7,
+      "description": "A line graph showing the concentration of (CH3)3CCl against time.",
+      "bbox_normalized": [
+        185,
+        175,
+        815,
+        465
+      ],
+      "image": "output/resources/q3_fig3_1.png"
+    },
+    {
+      "resource_id": "q8_c_iii",
+      "type": "apparatus diagram",
+      "question": "3",
+      "part": "c",
+      "subpart": "iii",
+      "pdf_page": 8,
+      "description": "A diagram of two beakers connected by a salt bridge, to be completed by the student.",
+      "bbox_normalized": [
+        350,
+        515,
+        650,
+        650
+      ],
+      "image": "output/resources/q8_c_iii.png"
+    },
+    {
+      "resource_id": "q10_fig4_1",
+      "type": "chemical structure",
+      "question": "4",
+      "part": "b",
+      "subpart": "i",
+      "pdf_page": 10,
+      "description": "Chemical structure of bipyridine (bipy).",
+      "bbox_normalized": [
+        400,
+        430,
+        600,
+        500
+      ],
+      "image": "output/resources/q10_fig4_1.png"
+    },
+    {
+      "resource_id": "q11_stereoisomers",
+      "type": "blank answer box",
+      "question": "4",
+      "part": "b",
+      "subpart": "ii",
+      "pdf_page": 11,
+      "description": "Two blank boxes for drawing the three-dimensional structures of [Fe(bipy)3]2+ stereoisomers.",
+      "bbox_normalized": [
+        95,
+        190,
+        905,
+        420
+      ],
+      "image": "output/resources/q11_stereoisomers.png"
+    },
+    {
+      "resource_id": "q12_fig4_2",
+      "type": "chemical structure",
+      "question": "4",
+      "part": "d",
+      "subpart": null,
+      "pdf_page": 12,
+      "description": "Chemical structure of pyridine.",
+      "bbox_normalized": [
+        450,
+        120,
+        550,
+        180
+      ],
+      "image": "output/resources/q12_fig4_2.png"
+    },
+    {
+      "resource_id": "q12_fig4_3",
+      "type": "reaction mechanism",
+      "question": "4",
+      "part": "e",
+      "subpart": null,
+      "pdf_page": 12,
+      "description": "Reaction scheme for the chlorination of pyridine.",
+      "bbox_normalized": [
+        250,
+        520,
+        750,
+        620
+      ],
+      "image": "output/resources/q12_fig4_3.png"
+    },
+    {
+      "resource_id": "q12_mechanism_box",
+      "type": "blank answer box",
+      "question": "4",
+      "part": "e",
+      "subpart": null,
+      "pdf_page": 12,
+      "description": "Blank space for drawing the mechanism of the reaction of pyridine with Cl+.",
+      "bbox_normalized": [
+        150,
+        750,
+        850,
+        850
+      ],
+      "image": "output/resources/q12_mechanism_box.png"
+    },
+    {
+      "resource_id": "q14_mechanism_box",
+      "type": "blank answer box",
+      "question": "5",
+      "part": "d",
+      "subpart": "i",
+      "pdf_page": 14,
+      "description": "Blank space for drawing the mechanism of the hydrolysis of benzoyl chloride.",
+      "bbox_normalized": [
+        150,
+        650,
+        850,
+        750
+      ],
+      "image": "output/resources/q14_mechanism_box.png"
+    },
+    {
+      "resource_id": "q15_fig5_1",
+      "type": "reaction mechanism",
+      "question": "5",
+      "part": "e",
+      "subpart": null,
+      "pdf_page": 15,
+      "description": "Reaction scheme for the formation of acid anhydrides from acyl chlorides and sodium carboxylates.",
+      "bbox_normalized": [
+        150,
+        120,
+        850,
+        220
+      ],
+      "image": "output/resources/q15_fig5_1.png"
+    },
+    {
+      "resource_id": "q15_fig5_2",
+      "type": "chemical structure",
+      "question": "5",
+      "part": "e",
+      "subpart": null,
+      "pdf_page": 15,
+      "description": "Chemical structure of a polyanhydride repeat unit.",
+      "bbox_normalized": [
+        100,
+        320,
+        900,
+        450
+      ],
+      "image": "output/resources/q15_fig5_2.png"
+    },
+    {
+      "resource_id": "q15_monomer_boxes",
+      "type": "blank answer box",
+      "question": "5",
+      "part": "e",
+      "subpart": "i",
+      "pdf_page": 15,
+      "description": "Two blank boxes for drawing the structures of the two monomers.",
+      "bbox_normalized": [
+        100,
+        520,
+        900,
+        700
+      ],
+      "image": "output/resources/q15_monomer_boxes.png"
+    },
+    {
+      "resource_id": "q16_fig6_1",
+      "type": "chemical structure",
+      "question": "6",
+      "part": "b",
+      "subpart": null,
+      "pdf_page": 16,
+      "description": "Chemical structure of asparagine.",
+      "bbox_normalized": [
+        350,
+        270,
+        650,
+        370
+      ],
+      "image": "output/resources/q16_fig6_1.png"
+    },
+    {
+      "resource_id": "q17_fig6_2",
+      "type": "chemical structure",
+      "question": "6",
+      "part": "e",
+      "subpart": null,
+      "pdf_page": 17,
+      "description": "Chemical structure of lysine.",
+      "bbox_normalized": [
+        350,
+        270,
+        650,
+        370
+      ],
+      "image": "output/resources/q17_fig6_2.png"
+    },
+    {
+      "resource_id": "q17_fig6_3",
+      "type": "electrophoresis result",
+      "question": "6",
+      "part": "e",
+      "subpart": null,
+      "pdf_page": 17,
+      "description": "Electrophoresis results showing spots E, F, and G.",
+      "bbox_normalized": [
+        300,
+        550,
+        700,
+        620
+      ],
+      "image": "output/resources/q17_fig6_3.png"
+    },
+    {
+      "resource_id": "q18_fig6_4",
+      "type": "chromatogram",
+      "question": "6",
+      "part": "f",
+      "subpart": "ii",
+      "pdf_page": 18,
+      "description": "Two thin-layer chromatograms for unknown amino acid and references P, Q, R, S.",
+      "bbox_normalized": [
+        250,
+        380,
+        750,
+        650
+      ],
+      "image": "output/resources/q18_fig6_4.png"
+    },
+    {
+      "resource_id": "q19_fig6_5",
+      "type": "graph",
+      "question": "6",
+      "part": "g",
+      "subpart": null,
+      "pdf_page": 19,
+      "description": "Gas chromatogram showing peaks J, K, and L.",
+      "bbox_normalized": [
+        200,
+        120,
+        450,
+        250
+      ],
+      "image": "output/resources/q19_fig6_5.png"
+    },
+    {
+      "resource_id": "q20_fig7_1",
+      "type": "reaction mechanism",
+      "question": "7",
+      "part": null,
+      "subpart": null,
+      "pdf_page": 20,
+      "description": "Reaction scheme for the synthesis of procaine from methylbenzene.",
+      "bbox_normalized": [
+        100,
+        120,
+        900,
+        450
+      ],
+      "image": "output/resources/q20_fig7_1.png"
+    },
+    {
+      "resource_id": "q21_fig7_2",
+      "type": "reaction mechanism",
+      "question": "7",
+      "part": "d",
+      "subpart": null,
+      "pdf_page": 21,
+      "description": "Reaction scheme for the synthesis of compound X from methylbenzene, with a box for W.",
+      "bbox_normalized": [
+        150,
+        120,
+        850,
+        250
+      ],
+      "image": "output/resources/q21_fig7_2.png"
+    }
+  ],
+  "extraction_notes": [],
+  "crop_errors": []
+}

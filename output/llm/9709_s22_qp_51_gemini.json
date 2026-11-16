@@ -1,0 +1,188 @@
+{
+  "source_file": "9709_s22_qp_51.pdf",
+  "subject_code": "9709",
+  "component": "51",
+  "questions": [
+    {
+      "number": "1",
+      "introductory_text": "",
+      "text": "",
+      "pdf_page": 2,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Find the number of different arrangements of the 8 letters in the word DECEIVED in which all three Es are together and the two Ds are together.",
+          "marks": 2,
+          "pdf_page": 2,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Find the number of different arrangements of the 8 letters in the word DECEIVED in which the three Es are not all together.",
+          "marks": 4,
+          "pdf_page": 2,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "introductory_text": "There are 6 men and 8 women in a Book Club. The committee of the club consists of five of its members. Mr Lan and Mrs Lan are members of the club.",
+      "text": "",
+      "pdf_page": 3,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "In how many different ways can the committee be selected if exactly one of Mr Lan and Mrs Lan must be on the committee?",
+          "marks": 2,
+          "pdf_page": 3,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "In how many different ways can the committee be selected if Mrs Lan must be on the committee and there must be more women than men on the committee?",
+          "marks": 4,
+          "pdf_page": 3,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "introductory_text": "The times taken to travel to college by 2500 students are summarised in the table.\n\nTime taken (t minutes) 0 ≤ t < 20 20 ≤ t < 30 30 ≤ t < 40 40 ≤ t < 60 60 ≤ t < 90\nFrequency 440 720 920 300 120",
+      "text": "",
+      "pdf_page": 4,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Draw a histogram to represent this information.",
+          "marks": 4,
+          "pdf_page": 4,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Calculate an estimate of the standard deviation of the times taken to travel to college.",
+          "marks": 3,
+          "pdf_page": 5,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "In which class interval does the upper quartile lie?",
+          "marks": 1,
+          "pdf_page": 5,
+          "subparts": []
+        },
+        {
+          "label": "(d)",
+          "text": "Without doing any further calculations, state with a reason whether the estimate of the standard deviation in part (b) would be increased, decreased or stay the same.",
+          "marks": 1,
+          "pdf_page": 5,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "introductory_text": "Jacob has four coins. One of the coins is biased such that when it is thrown the probability of obtaining a head is 7/10. The other three coins are fair. Jacob throws all four coins once. The number of heads that he obtains is denoted by the random variable X. The probability distribution table for X is as follows.\n\nx 0 1 2 3 4\nP(X = x) 3/80 a b c 7/80",
+      "text": "",
+      "pdf_page": 6,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Show that a = 1/5 and find the values of b and c.",
+          "marks": 4,
+          "pdf_page": 6,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Find E(X).",
+          "marks": 1,
+          "pdf_page": 6,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "Find the probability that he obtains exactly one head on fewer than 3 occasions.",
+          "marks": 3,
+          "pdf_page": 7,
+          "subparts": []
+        },
+        {
+          "label": "(d)",
+          "text": "Find the probability that Jacob obtains exactly one head for the first time on the 7th or 8th time that he throws the 4 coins.",
+          "marks": 2,
+          "pdf_page": 7,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "introductory_text": "The lengths, in cm, of the leaves of a particular type are modelled by the distribution N(5.2, 1.5^2).",
+      "text": "",
+      "pdf_page": 8,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Find the probability that a randomly chosen leaf of this type has length less than 6 cm.",
+          "marks": 2,
+          "pdf_page": 8,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Find estimates for the mean and standard deviation of the lengths of leaves of this type.",
+          "marks": 5,
+          "pdf_page": 8,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "In a random sample of 2000 leaves of this second type, how many would the scientist expect to find with lengths more than 1 standard deviation from the mean?",
+          "marks": 4,
+          "pdf_page": 9,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "introductory_text": "Janice is playing a computer game. She has to complete level 1 and level 2 to finish the game. She is allowed at most two attempts at any level.\n• For level 1, the probability that Janice completes it at the first attempt is 0.6. If she fails at her first attempt, the probability that she completes it at the second attempt is 0.3.\n• If Janice completes level 1, she immediately moves on to level 2.\n• For level 2, the probability that Janice completes it at the first attempt is 0.4. If she fails at her first attempt, the probability that she completes it at the second attempt is 0.2.",
+      "text": "",
+      "pdf_page": 10,
+      "options": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Show that the probability that Janice moves on to level 2 is 0.72.",
+          "marks": 1,
+          "pdf_page": 10,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Find the probability that Janice finishes the game.",
+          "marks": 3,
+          "pdf_page": 10,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "Find the probability that Janice fails exactly one attempt, given that she finishes the game.",
+          "marks": 4,
+          "pdf_page": 11,
+          "subparts": []
+        }
+      ]
+    }
+  ],
+  "extraction_notes": []
+}

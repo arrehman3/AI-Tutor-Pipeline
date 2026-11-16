@@ -1,0 +1,332 @@
+{
+  "source_file": "9701_s22_qp_21.pdf",
+  "subject_code": "9701",
+  "component": "21",
+  "questions": [
+    {
+      "number": "1",
+      "introductory_text": "Calcium, magnesium and radium are Group 2 elements. Radium follows the same trends as the other members of Group 2.",
+      "pdf_page": 2,
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Identify the highest energy orbital which contains electrons in a calcium atom. Sketch the shape of this orbital.",
+          "marks": 1,
+          "pdf_page": 2,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "",
+          "marks": null,
+          "pdf_page": 2,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Write the equation for the thermal decomposition of calcium nitrate.",
+              "marks": 1,
+              "pdf_page": 2
+            },
+            {
+              "label": "(ii)",
+              "text": "Suggest which of the Group 2 nitrates, calcium, magnesium or radium, requires the highest temperature to decompose. Explain your answer.",
+              "marks": 1,
+              "pdf_page": 2
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "text": "Predict what you would observe when aqueous radium chloride is added to aqueous sodium sulfate. Do not refer to temperature changes in your answer.",
+          "marks": 1,
+          "pdf_page": 2,
+          "subparts": []
+        },
+        {
+          "label": "(d)",
+          "text": "25Mg is an isotope of magnesium. Determine the number of protons and neutrons in an atom of 25Mg.",
+          "marks": null,
+          "pdf_page": 2,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Determine the number of protons and neutrons in an atom of 25Mg.",
+              "marks": 1,
+              "pdf_page": 2
+            },
+            {
+              "label": "(ii)",
+              "text": "State the full electronic configuration of an atom of 25Mg.",
+              "marks": 1,
+              "pdf_page": 2
+            }
+          ]
+        },
+        {
+          "label": "(e)",
+          "text": "A sample of magnesium contains three isotopes, 25Mg, 26Mg and X. The percentage abundance of the three isotopes is shown in Table 1.1.",
+          "marks": null,
+          "pdf_page": 3,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "The relative atomic mass, Ar, is calculated by comparing the average mass of the isotopes of an element to the unified atomic mass unit. Define the unified atomic mass unit.",
+              "marks": 1,
+              "pdf_page": 3
+            },
+            {
+              "label": "(ii)",
+              "text": "Calculate the mass of X. Use data from Table 1.1 and Ar (magnesium) = 24.31 in your calculation. Show your working.",
+              "marks": 2,
+              "pdf_page": 3
+            },
+            {
+              "label": "(iii)",
+              "text": "State one similarity and one difference in the properties of these isotopes of magnesium. Explain your answer.",
+              "marks": 2,
+              "pdf_page": 3
+            }
+          ]
+        },
+        {
+          "label": "(f)",
+          "text": "Magnesium, Mg, burns in oxygen, O2. The activation energy, Ea, for this reaction is +148kJmol–1.",
+          "marks": null,
+          "pdf_page": 4,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "State one observation when magnesium burns in oxygen. Do not refer to temperature changes in your answer.",
+              "marks": 1,
+              "pdf_page": 4
+            },
+            {
+              "label": "(ii)",
+              "text": "On Fig. 1.1: sketch a reaction pathway diagram for the reaction that occurs when Mg burns in O2; label the diagram to show the enthalpy change, ∆H, and the activation energy, Ea, for the reaction.",
+              "marks": 3,
+              "pdf_page": 4
+            }
+          ]
+        },
+        {
+          "label": "(g)",
+          "text": "Cold water reacts slowly with a piece of Mg to produce bubbles of H2(g). Cold water reacts rapidly with burning Mg to produce H2(g) in an explosive mixture. Mg + 2H2O → Mg(OH)2 + H2. Explain why the rate of reaction of cold water with burning magnesium is greater.",
+          "marks": 2,
+          "pdf_page": 4,
+          "subparts": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "introductory_text": "Nitrogen molecules, N2(g), contain two atoms attracted to each other by a triple covalent bond.",
+      "pdf_page": 5,
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Describe how the triple covalent bond forms in a N2(g) molecule. Refer to orbital overlap and hybridisation in your answer.",
+          "marks": 3,
+          "pdf_page": 5,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Nitrogen oxides, NO2 and NO, are produced in internal combustion engines. Release of these gases into the atmosphere leads to the formation of photochemical smog.",
+          "marks": null,
+          "pdf_page": 5,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Outline how nitrogen oxides are involved in the formation of photochemical smog.",
+              "marks": 2,
+              "pdf_page": 5
+            },
+            {
+              "label": "(ii)",
+              "text": "Construct an equation to demonstrate how a catalytic converter reduces the amount of nitrogen oxide gases released into the atmosphere.",
+              "marks": 1,
+              "pdf_page": 5
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "text": "N2(g) is very unreactive. It is difficult to make ammonia, NH3(g), directly from its elements but it can be made from NH4Cl(s). Identify a reagent and the conditions required to make NH3(g) from NH4Cl(s).",
+          "marks": 1,
+          "pdf_page": 5,
+          "subparts": []
+        },
+        {
+          "label": "(d)",
+          "text": "25cm3 of 0.10moldm–3 HCl(aq) is added to a beaker and its pH is recorded. 50cm3 of 0.10moldm–3 NH3(aq) is added to the HCl(aq) in 5cm3 portions. The pH of the mixture is monitored until all the NH3(aq) is added. HCl is a strong Brønsted-Lowry acid.",
+          "marks": null,
+          "pdf_page": 6,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Describe what is meant by a strong Brønsted-Lowry acid.",
+              "marks": 2,
+              "pdf_page": 6
+            },
+            {
+              "label": "(ii)",
+              "text": "NH3 is a weak base. Construct an equation that shows the behaviour of NH3 as a weak Brønsted-Lowry base when dissolved in water.",
+              "marks": 1,
+              "pdf_page": 6
+            },
+            {
+              "label": "(iii)",
+              "text": "On Fig. 2.1 sketch a graph to show the change in pH which occurs when HCl(aq) is titrated with NH3(aq) as described in (d).",
+              "marks": 2,
+              "pdf_page": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "introductory_text": "Liquids that contain molecules of T smell like lemons.",
+      "pdf_page": 7,
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Molecules of T exist as a pair of stereoisomers. Name the type of stereoisomerism shown by molecules of T. Explain your answer.",
+          "marks": 2,
+          "pdf_page": 7,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "Two organic products are produced when a sample of T is heated under reflux with excess acidified concentrated KMnO4. Draw the structure of the two organic products, from this reaction, in the boxes.",
+          "marks": 2,
+          "pdf_page": 7,
+          "subparts": []
+        },
+        {
+          "label": "(c)",
+          "text": "Fig. 3.2 shows two reactions of T.",
+          "marks": null,
+          "pdf_page": 8,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Identify a suitable reagent for reaction 1.",
+              "marks": 1,
+              "pdf_page": 8
+            },
+            {
+              "label": "(ii)",
+              "text": "Identify the reagent and conditions needed for reaction 2.",
+              "marks": 2,
+              "pdf_page": 8
+            },
+            {
+              "label": "(iii)",
+              "text": "Suggest which product formed in reaction 2 has a higher yield. Explain your answer.",
+              "marks": 3,
+              "pdf_page": 8
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "text": "Separate samples of Q and R are added to separate test-tubes containing acidified K2Cr2O7(aq) and heated.",
+          "marks": null,
+          "pdf_page": 9,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Predict the observations for each test-tube. Explain your answer in terms of the functional groups present in Q and R.",
+              "marks": 3,
+              "pdf_page": 9
+            },
+            {
+              "label": "(ii)",
+              "text": "When PCl5(s) is added to separate samples of Q and R at room temperature, both react vigorously. Complete the equation shown in Fig. 3.4 to describe the reaction that occurs when R reacts with PCl5(s).",
+              "marks": 2,
+              "pdf_page": 9
+            },
+            {
+              "label": "(iii)",
+              "text": "Suggest why samples of Q and R must be dried before PCl5 is added. Include a relevant equation to support your answer.",
+              "marks": 2,
+              "pdf_page": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "introductory_text": "Compound V is a liquid. V contains 77.2% carbon, 11.4% hydrogen and 11.4% oxygen by mass. V has a relative molecular mass of 280.",
+      "pdf_page": 10,
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Calculate the molecular formula of V. Show your working.",
+          "marks": 3,
+          "pdf_page": 10,
+          "subparts": []
+        },
+        {
+          "label": "(b)",
+          "text": "V contains two types of functional group: a carboxylic acid and an alkene.",
+          "marks": null,
+          "pdf_page": 10,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "Describe a chemical test and observation which confirms the presence of a carboxyl functional group.",
+              "marks": 2,
+              "pdf_page": 10
+            },
+            {
+              "label": "(ii)",
+              "text": "A 3.196g sample of Br2 reacts completely with 2.800g of V. Calculate how many alkene functional groups are present in one molecule of V. Show your working.",
+              "marks": 1,
+              "pdf_page": 10
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "text": "W, X and Y have the same molecular formula, C5H10O. W, X and Y are added separately to different reagents. Observations for these reactions are described in Table 4.1.",
+          "marks": null,
+          "pdf_page": 11,
+          "subparts": [
+            {
+              "label": "(i)",
+              "text": "W, X and Y each contain a common functional group. Name the functional group that is present in all three compounds.",
+              "marks": 1,
+              "pdf_page": 11
+            },
+            {
+              "label": "(ii)",
+              "text": "State the formula of the yellow precipitate produced when X is added to alkaline I2(aq).",
+              "marks": 1,
+              "pdf_page": 11
+            },
+            {
+              "label": "(iii)",
+              "text": "W could be one of four structural isomers. Draw the skeletal formulae for two possible structural isomers of W. Describe the type of structural isomerism shown.",
+              "marks": 3,
+              "pdf_page": 11
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "text": "Fig. 5.1 shows the mass spectrum of ketone Z, C5H10O. Use the information in Fig. 5.1 to suggest the formulae of the fragments with m/e peaks at 29 and 57. Deduce the identity of Z.",
+          "marks": 3,
+          "pdf_page": 12,
+          "subparts": []
+        }
+      ]
+    }
+  ],
+  "extraction_notes": [
+    "The question numbering for 1(d) and 1(e) in the PDF is slightly ambiguous due to the layout, but they are clearly distinct parts.",
+    "Question 4(d) is on page 12 and concludes the paper."
+  ]
+}

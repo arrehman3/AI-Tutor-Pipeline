@@ -1,0 +1,99 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "total_discovered": 12,
+  "successful": 10,
+  "skipped": 0,
+  "failed": 2,
+  "results": [
+    {
+      "file": "9701_s22_qp_11.pdf",
+      "status": "success",
+      "questions": 40,
+      "parts": 0,
+      "subparts": 0,
+      "output": "output/llm/9701_s22_qp_11_gemini.json"
+    },
+    {
+      "file": "9701_s22_qp_21.pdf",
+      "status": "failed",
+      "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    },
+    {
+      "file": "9701_s22_qp_41.pdf",
+      "status": "success",
+      "questions": 7,
+      "parts": 37,
+      "subparts": 35,
+      "output": "output/llm/9701_s22_qp_41_gemini.json"
+    },
+    {
+      "file": "9701_s22_qp_51.pdf",
+      "status": "success",
+      "questions": 2,
+      "parts": 12,
+      "subparts": 16,
+      "output": "output/llm/9701_s22_qp_51_gemini.json"
+    },
+    {
+      "file": "9709_s22_qp_11.pdf",
+      "status": "success",
+      "questions": 10,
+      "parts": 21,
+      "subparts": 0,
+      "output": "output/llm/9709_s22_qp_11_gemini.json"
+    },
+    {
+      "file": "9709_s22_qp_31.pdf",
+      "status": "success",
+      "questions": 10,
+      "parts": 18,
+      "subparts": 0,
+      "output": "output/llm/9709_s22_qp_31_gemini.json"
+    },
+    {
+      "file": "9709_s22_qp_41.pdf",
+      "status": "success",
+      "questions": 7,
+      "parts": 13,
+      "subparts": 0,
+      "output": "output/llm/9709_s22_qp_41_gemini.json"
+    },
+    {
+      "file": "9709_s22_qp_51.pdf",
+      "status": "success",
+      "questions": 6,
+      "parts": 18,
+      "subparts": 0,
+      "output": "output/llm/9709_s22_qp_51_gemini.json"
+    },
+    {
+      "file": "9702_s22_qp_11.pdf",
+      "status": "success",
+      "questions": 40,
+      "parts": 0,
+      "subparts": 0,
+      "output": "output/llm/9702_s22_qp_11_gemini.json"
+    },
+    {
+      "file": "9702_s22_qp_21.pdf",
+      "status": "failed",
+      "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    },
+    {
+      "file": "9702_s22_qp_41.pdf",
+      "status": "success",
+      "questions": 10,
+      "parts": 28,
+      "subparts": 39,
+      "output": "output/llm/9702_s22_qp_41_gemini.json"
+    },
+    {
+      "file": "9702_s22_qp_51.pdf",
+      "status": "success",
+      "questions": 2,
+      "parts": 6,
+      "subparts": 4,
+      "output": "output/llm/9702_s22_qp_51_gemini.json"
+    }
+  ]
+}
